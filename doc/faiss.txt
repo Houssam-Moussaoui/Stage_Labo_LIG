@@ -1,0 +1,95 @@
+Excellent ! Tu veux donc une version où :
+
+    Tu as un texte (comme la fiche formation),
+
+    Tu as des métadonnées associées (comme ville, diplome, etablissement),
+
+    Tu veux tout stocker proprement avec FAISS, en liant vecteurs ↔ métadonnées.
+
+FAISS ne stocke que des vecteurs, donc on va garder les métadonnées à part (dans une liste, une base, ou un fichier). Voici un exemple complet :
+✅ Exemple avec texte + métadonnées
+
+import faiss
+import numpy as np
+from sentence_transformers import SentenceTransformer
+
+# Simuler quelques fiches avec texte + métadonnées
+fiches = [
+    {
+        "text": "Le BUT Informatique de l'IUT de Bordeaux forme des développeurs.",
+        "metadata": {
+            "ville": "Bordeaux",
+            "etablissement": "IUT Bordeaux",
+            "diplome": "BUT",
+            "filiere": "Informatique"
+        }
+    },
+    {
+        "text": "Le BTS SIO option SLAM est proposé au lycée Victor Hugo à Marseille.",
+        "metadata": {
+            "ville": "Marseille",
+            "etablissement": "Lycée Victor Hugo",
+            "diplome": "BTS SIO",
+            "filiere": "SLAM"
+        }
+    },
+    {
+        "text": "Une licence de biologie est disponible à l'université de Rennes.",
+        "metadata": {
+            "ville": "Rennes",
+            "etablissement": "Université de Rennes",
+            "diplome": "Licence",
+            "filiere": "Biologie"
+        }
+    }
+]
+
+# Initialiser le modèle d'embedding
+model = SentenceTransformer("all-MiniLM-L6-v2")
+
+# Créer les embeddings
+texts = [fiche["text"] for fiche in fiches]
+embeddings = model.encode(texts).astype("float32")
+
+# Créer l’index FAISS
+dimension = embeddings.shape[1]
+index = faiss.IndexFlatL2(dimension)
+index.add(embeddings)
+
+# Stocker les métadonnées séparément (liste parallèle)
+metadata_store = [fiche["metadata"] for fiche in fiches]
+
+# Requête utilisateur
+query = "Je cherche une formation en informatique à Bordeaux"
+query_embedding = model.encode([query]).astype("float32")
+
+# Recherche dans FAISS
+k = 2
+distances, indices = index.search(query_embedding, k)
+
+# Affichage des résultats avec métadonnées
+print("Résultats similaires :")
+for i, idx in enumerate(indices[0]):
+    print(f"{i+1}. {texts[idx]} (distance: {distances[0][i]:.2f})")
+    print("   Métadonnées :", metadata_store[idx])
+
+✅ Résultat attendu (exemple) :
+
+Résultats similaires :
+1. Le BUT Informatique de l'IUT de Bordeaux forme des développeurs. (distance: 0.35)
+   Métadonnées : {'ville': 'Bordeaux', 'etablissement': 'IUT Bordeaux', 'diplome': 'BUT', 'filiere': 'Informatique'}
+
+2. Le BTS SIO option SLAM est proposé au lycée Victor Hugo à Marseille. (distance: 0.80)
+   Métadonnées : {'ville': 'Marseille', 'etablissement': 'Lycée Victor Hugo', 'diplome': 'BTS SIO', 'filiere': 'SLAM'}
+
+🧠 Ce que tu peux faire ensuite :
+
+    Stocker metadata_store dans un fichier .json
+
+    Sauvegarder l’index FAISS :
+
+faiss.write_index(index, "index_faiss.index")
+
+    Créer une fonction de recherche propre (query → résultats avec textes + métadonnées)
+
+Souhaites-tu qu'on ajoute une fonction de recherche complète avec extraction automatique de filtre plus tard ?

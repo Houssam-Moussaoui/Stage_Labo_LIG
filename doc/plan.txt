@@ -1,0 +1,18 @@
+
+
+E1  : savoir ce qui est demandé exactement (les sites , les formations ... ) 
+
+E2 : extraire ces données et les nettoyées 
+
+E3 : mettre sous forme de vecteurs et stocker base donnée vectorielle
+
+E4 : 
+
+
+/// 
+
+à faire : 
+
+-- faire des comparaisons entre diffrenrs sites et voit comment le code HTML est fait pour pouvoir faire après du scrabing // sinon retrouver API de tous ces donnnées 
+
+-- avec le bloc que j'ai déjà : le diviser à des chunks , coder en vecteur , et mettre dans base FAISS (jjuste un test pour voir comment ça marche )

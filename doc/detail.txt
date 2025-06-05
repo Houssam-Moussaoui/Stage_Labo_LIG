@@ -1,0 +1,55 @@
+Identification générale
+
+    annee : "2025" → L'année de la session Parcoursup concernée.
+
+    etab_uai : "0442982C" → Le code UAI (identifiant unique d’un établissement en France).
+
+    etab_nom : "MAESTRIS BTS - Campus EDUCTIVE NANTES (44)" → Le nom de l’établissement proposant la formation.
+
+    tc : "Privés" → Type de contrat ou statut de l’établissement (ici, privé).
+
+    tf : "BTS - BTSA - BTSM" → Type de formation (ici, des BTS).
+
+Formation
+
+    nm : "BTS - Services - Gestion des transports et logistique associée - en apprentissage"
+    → Nom détaillé de la formation.
+
+    fl : "BTS - Gestion des transports et logistique associée"
+    → Libellé plus court de la formation.
+
+    app : "Formations en apprentissage"
+    → La formation est en alternance (apprentissage).
+
+    amg : "Enseignement en présentiel"
+    → Les cours se font en présentiel.
+
+    aut : Des épreuves de sélection...
+    → Il y a une sélection à l'entrée, donc ce n’est pas admission automatique.
+
+Localisation
+
+    region : "Pays de la Loire"
+
+    departement : "Loire-Atlantique"
+
+    commune : "Nantes"
+
+    etab_gps :
+
+        lon : -1.53551
+
+        lat : 47.2089
+        → Coordonnées GPS de l’établissement (utile pour la géolocalisation sur une carte).
+
+Liens utiles
+
+    fiche : Lien vers la fiche détaillée de la formation sur Parcoursup.
+
+    etab_url : Site web de l’établissement.
+
+Autres infos
+
+    nmc : "BTS-GTLA-App" → Code court de la formation.
+
+    gta : "41229" → Identifiant spécifique à cette formation sur Parcoursup.
