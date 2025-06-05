@@ -1,1170 +1,1564 @@
-
-
-Fiche formation - Université de Mulhouse (68) Licence - Langues étrangères appliquées - Parcours Langues étrangères appliquées, Traduction scientifique et technique, option Anglais Espagnol - Candidats
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ContenuPied de page
-
-
-
-
-
-
-
-
-République Française
-
-
-
-
-
-Menu
-
-
-
-
-
-
-
-Calendrier
-
-
-Ressources
-
-Me connecter
-
-
-
-
-
-
-
-
-Fermer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FermerMise à jour de données
-ATTENTION, vous vous apprêtez à mettre à jour des données en lieu et place d'un candidat.
-Vous pouvez confirmer la modification en cliquant sur "Confirmer".
-Si vous ne souhaitez pas effectuer la modification, cliquez sur "Annuler".
-ConfirmerAnnuler
-
-
-
-
-
-
-
-
-
-
-
-Rechercher une formation
-Université de Mulhouse
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fermer
-
-
-
-
-Mon appréciation personnelle
-
-
-La formation est enregistrée dans vos Favoris.
-
-CONFIDENTIEL : Les formations n’ont pas accès à vos favoris et à vos appréciations personnelles.
-Mon niveau d'intérêt pour cette formation
-
-
-
-
-
-
-
-
-Mes remarques :
-
-
-
-
-
-
-
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<title>Fiche formation - Ascencia Business School - Paris-la-Défense (Puteaux - 92) Formation professionnelle - Chargé de marketing et communication (Bac +3) - en apprentissage - Candidats</title>
+<meta charset="utf-8"/>
+<meta content="telephone=no,date=no,address=no,email=no,url=no" name="format-detection"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="telephone=no,date=no,address=no,email=no,url=no" name="format-detection"/>
+<script crossorigin="anonymous" integrity="sha256-inaRZwkhJyK4JU6bQTSdDELBnWSdO5GBfVBNodMXX8g=" src="https://ressource.parcoursup.fr/js/candidat.8a76916709212722b8254e9b41349d0c42c19d649d3b91817d504da1d3175fc8.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha256-/42WFYrp5xz3uMFIezwLZrdtajcGoAsVNcdtOOj1UgE=" src="https://ressource.parcoursup.fr/framework/js/config-dsfr.ff8d96158ae9e71cf7b8c1487b3c0b66b76d6a3706a00b1535c76d38e8f55201.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha256-z+sYCC+xIYJQKBNG9TB9Pkr/OqRUUCV+07yBpjgVSwI=" src="https://ressource.parcoursup.fr/framework/js/plugins/jquery/jquery-3.5.1.min.cfeb18082fb1218250281346f5307d3e4aff3aa45450257ed3bc81a638154b02.js" type="text/javascript"></script>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/framework/css/commun.f2527c200e6685719098d4341c905ebb4ef95e433b8b325a8fcf3dbce2092e4d.css" integrity="sha256-8lJ8IA5mhXGQmNQ0HJBeu075XkM7izJaj889vOIJLk0=" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/framework/js/dsfr/dsfr.81635fc0af46b684c543df3fc9450837defe186a90042410c31dc97630ec2c84.css" integrity="sha256-gWNfwK9GtoTFQ98/yUUIN97+GGqQBCQQwx3JdjDsLIQ=" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/framework/js/dsfr/dsfr.print.fb6d5c8d6dc9978da528d2471c67fd92b2ded48fa3a695259f52a7612f37b173.css" integrity="sha256-+21cjW3Jl42lKNJHHGf9krLe1I+jppUln1KnYS83sXM=" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/framework/js/dsfr/utility/utility.a5ae8eda17a2e3a351447435dfa72fbacd5e97264ebc8697185f4f1e775d531a.css" integrity="sha256-pa6O2hei46NRRHQ136cvus1elyZOvIaXGF9PHnddUxo=" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha256-PgNstx/HrfZgE00tMg+NsK6qyLlVNt/iTU6s+ukWoSM=" src="https://ressource.parcoursup.fr/framework/js/dsfr/dsfr.module.3e036cb71fc7adf660134d2d320f8db0aeaac8b95536dfe24d4eacfae916a123.js" type="module"></script>
+<script crossorigin="anonymous" integrity="sha256-7/WYlZlTOPwFjEX5SIscB2Mm62PI42rdU3JHyM1L98E=" nomodule="" src="https://ressource.parcoursup.fr/framework/js/dsfr/dsfr.nomodule.eff59895995338fc058c45f9488b1c076326eb63c8e36add537247c8cd4bf7c1.js" type="text/javascript"></script>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/framework/css/customNonDsfr.403f1cb46d2c1713de579a8d01703538b0ae7972a46dac79dabbef949d603ecb.css" integrity="sha256-QD8ctG0sFxPeV5qNAXA1OLCueXKkbax52rvvlJ1gPss=" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha256-yf5UvZOK75T9GqLUTDBJxoy3Empd4GgL2W9r9eaVDiA=" src="https://ressource.parcoursup.fr/framework/css/bootstrap-4.5.0/js/bootstrap.bundle.min.c9fe54bd938aef94fd1aa2d44c3049c68cb7126a5de0680bd96f6bf5e6950e20.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha256-IMCekbFxkNlBecd99E8jJoS1s3B3zHR+O8rnIs+NwZo=" src="https://ressource.parcoursup.fr/framework/js/plugins/btable/btable.min.20c09e91b17190d94179c77df44f232684b5b37077cc747e3bcae722cf8dc19a.js" type="text/javascript"></script>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/framework/js/plugins/btable/btable-dsfr.min.66e03a494c015f90e29a2cdc308defdceac28a36aaadcbb7972c820d15d19cd5.css" integrity="sha256-ZuA6SUwBX5DimizcMI3v3OrCijaqrcu3lyyCDRXRnNU=" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha256-slCPb0zhOhf/IF3r05SFMu4KdWcQWRSHdLL7O9Wdxfs=" src="https://ressource.parcoursup.fr/framework/js/plugins/ckeditor5-37.1.0/ckeditor.b2508f6f4ce13a17ff205debd3948532ee0a75671059148774b2fb3bd59dc5fb.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha256-Su6Qb+6q/Uf2PRNCBb9nJ8JvL5aeCqOAeK0D9BDJRY0=" src="https://ressource.parcoursup.fr/framework/js/plugins/notifications/notificationToast.4aee906feeaafd47f63d134205bf6727c26f2f969e0aa38078ad03f410c9458d.js" type="text/javascript"></script>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/framework/js/plugins/notifications/notificationToast.18f90be61dca7b8d0c313b54350ebbd285a8a956ef0cb938ece9ae4d3cb213ca.css" integrity="sha256-GPkL5h3Ke40MMTtUNQ670oWoqVbvDLk47OmuTTyyE8o=" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha256-IG9xppBY7dilUfRbsQCMt5E62+mmtIW3WYYFL43l6Mk=" src="https://ressource.parcoursup.fr/framework/js/general.206f71a69058edd8a551f45bb1008cb7913adbe9a6b485b75986052f8de5e8c9.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha256-yf5UvZOK75T9GqLUTDBJxoy3Empd4GgL2W9r9eaVDiA=" src="https://ressource.parcoursup.fr/framework/css/bootstrap-4.5.0/js/bootstrap.bundle.min.c9fe54bd938aef94fd1aa2d44c3049c68cb7126a5de0680bd96f6bf5e6950e20.js" type="text/javascript"></script>
+</head>
+<body id="global">
+<div class="fr-skiplinks"><nav aria-label="Accès rapide" class="fr-container" role="navigation"><ul class="fr-skiplinks__list"><li><a class="fr-link" href="#main">Contenu</a></li><li><a class="fr-link" href="#footer">Pied de page</a></li></ul></nav></div>
+<div aria-live="polite" id="div-notif-toast"></div>
+<header class="fr-header" role="banner">
+<div class="fr-header__body">
+<div class="fr-container">
+<div class="fr-header__body-row">
+<div class="fr-header__brand">
+<div class="fr-header__brand-top">
+<div class="fr-header__logo">
+<p class="fr-logo">République <br/>Française</p>
+</div>
+<div class="fr-header__operator">
+<img alt="Parcoursup – Entrez dans l’enseignement supérieur" class="fr-responsive-img" src="/Candidats/static/framework/img/Parcoursup_signature_RVB.svg"/>
+</div>
+<div class="fr-header__navbar">
+<button aria-controls="modal-menu" aria-haspopup="menu" class="fr-btn--menu fr-btn" data-fr-js-modal-button="true" data-fr-opened="false" id="menu-button" title="Menu">Menu</button>
+</div>
+</div>
+</div>
+<div class="fr-header__tools">
+<div class="fr-header__tools-links">
+<ul class="fr-btns-group">
+<li>
+<a class="fr-btn fr-icon-calendar-event-fill" href="https://www.parcoursup.gouv.fr/calendrier-2024-4" target="_blank" title="Lien vers le calendrier Parcoursup (nouvelle fenêtre)">Calendrier</a>
+</li>
+<li>
+<a class="fr-btn fr-icon-folder-2-fill" href="https://www.parcoursup.gouv.fr/outils-et-ressources" target="_blank" title="Lien vers les ressources Parcoursup (nouvelle fenêtre)">Ressources</a>
+</li>
+<li><a class="fr-icon-account-circle-fill fr-btn" href="https://dossierappel.parcoursup.fr/Candidat/authentification?redirect=carte">Me connecter</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labelledby="menu-button" class="fr-header__menu fr-modal" data-fr-js-header-modal="true" data-fr-js-modal="true" id="modal-menu" role="dialog">
+<div class="fr-container">
+<button aria-controls="modal-menu" class="fr-link--close fr-link" data-fr-js-modal-button="true">Fermer</button>
+<div class="fr-header__menu-links">
+<!-- 					<ul class="fr-btns-group" data-fr-js-header-links="true"> -->
+<!-- 						<li> -->
+<!-- 							<a class="fr-btn fr-icon-information-line" href="https://www.parcoursup.fr/index.php?desc=formations">Comment rechercher une formation&nbsp;?</a> -->
+<!-- 						</li> -->
+<!-- 						<li> -->
+<!-- 							<a class="fr-btn fr-icon-lock-line" href="https://dossier.parcoursup.fr/Candidat/authentification">Me connecter</a> -->
+<!-- 						</li> -->
+<!-- 						<li> -->
+<!-- 							<a class="fr-btn fr-icon-account-line" href="https://dossier.parcoursup.fr/Candidat/authentification?ACTION=3">Créer mon compte</a> -->
+<!-- 						</li> -->
+<!-- 					</ul> -->
+</div>
+<!-- 					<nav class="fr-nav" id="main-nav" role="navigation" aria-label="Menu principal" data-fr-js-navigation="true"> -->
+<!-- 						<ul class="fr-nav__list"> -->
+<!-- 							<li class="fr-nav__item" data-fr-js-navigation-item="true"> -->
+<!-- 								<a class="fr-nav__link" href="https://www.parcoursup.fr/index.php?desc=cest_quoi" target="_self">C’est quoi Parcoursup ?</a> -->
+<!-- 							</li> -->
+<!-- 							<li class="fr-nav__item" data-fr-js-navigation-item="true"> -->
+<!-- 								<a class="fr-nav__link" href="https://www.parcoursup.fr/index.php?desc=formations" target="_self">Rechercher une formation</a> -->
+<!-- 							</li> -->
+<!-- 							<li class="fr-nav__item" data-fr-js-navigation-item="true"> -->
+<!-- 								<a class="fr-nav__link" href="https://www.parcoursup.fr/index.php?desc=questions" target="_self">Foire aux questions</a> -->
+<!-- 							</li> -->
+<!-- 							Lien caché le 14/12 a la demande de Jérôme <li class="fr-nav__item"><a class="fr-nav__link" href="https://dossier.parcoursup.fr/Candidat/parcoursplus-info" target="_self">Parcours+</a></li> -->
+<!-- 						</ul> -->
+<!-- 					</nav> -->
+</div>
+</div>
+</header>
+<!-- CONTENU -->
+<main class="fr-m-0" id="main" role="main" tabindex="-1">
+<div class="display-none" id="div-mod-conf-drt">
+<dialog aria-labelledby="fr-modal-title-modal-modaleConfirmationActionDroits" class="fr-modal" id="modaleConfirmationActionDroits" role="dialog"><div class="fr-container fr-container--fluid fr-container-md"><div class="fr-grid-row fr-grid-row--center"><div class="fr-col-12 fr-col-md-8 fr-col-lg-6"><div class="fr-modal__body"><div class="fr-modal__header"><button aria-controls="modaleConfirmationActionDroits" class="fr-btn--close fr-btn" id="btn-fermer-modaleConfirmationActionDroits" title="Fermer la fenêtre modale" type="button">Fermer</button></div><div class="fr-modal__content"><h1 class="fr-modal__title" id="fr-modal-title-modal-modaleConfirmationActionDroits">Mise à jour de données</h1>
+<p>ATTENTION, vous vous apprêtez à mettre à jour des données en lieu et place d'un candidat.</p>
+<p class="mb-0">Vous pouvez confirmer la modification en cliquant sur "Confirmer".</p>
+<p>Si vous ne souhaitez pas effectuer la modification, cliquez sur "Annuler".</p>
+</div><div class="fr-modal__footer"><ul class="fr-btns-group fr-btns-group--right fr-btns-group--inline-reverse fr-btns-group--inline-lg fr-btns-group--icon-left"><li><button class="fr-btn" id="btn-primaire-modaleConfirmationActionDroits" type="button">Confirmer</button></li><li><button class="fr-btn fr-btn--secondary" id="btn-secondaire-modaleConfirmationActionDroits" onclick="dsfr($('#modaleConfirmationActionDroits')[0]).modal.conceal();" type="button">Annuler</button></li></ul></div></div></div></div></div></dialog>
+</div>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/css/fiche-formation.15dea83300a2a0a94d332cf80aa1b9aff60dd1b85c2b47e56e279e1ec0af26fb.css" integrity="sha256-Fd6oMwCioKlNMyz4CqG5r/YN0bhcK0flbieeHsCvJvs=" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha256-dmdQrxJtAvLt2RgNLbCLbSp+mLPzEdAW6laVpxeRLHQ=" src="https://ressource.parcoursup.fr/js/fiche-formation.766750af126d02f2edd9180d2db08b6d2a7e98b3f311d016ea5695a717912c74.js" type="text/javascript"></script>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/css/favoris.9a59b6f19cf8dfff64c130119613e1b9027325ca9727ee1df5f297125bcf0b1a.css" integrity="sha256-mlm28Zz43/9kwTARlhPhuQJzJcqXJ+4d9fKXElvPCxo=" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha256-pCmzM1qQ3B9FPpirlYuuMNnAXyYMXOF3AVwnDqdOLjE=" src="https://ressource.parcoursup.fr/js/favoris.a429b3335a90dc1f453e98ab958bae30d9c05f260c5ce177015c270ea74e2e31.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha256-aAqdUyet0QLpFH7Um49YEfzDFnbiVdLL5XjM5/xkV9g=" src="https://ressource.parcoursup.fr/js/pca.680a9d5327add102e9147ed49b8f5811fcc31676e255d2cbe578cce7fc6457d8.js" type="text/javascript"></script>
+<data id="data-g_ta_cod" value="46495"></data>
+<div class="fr-container" id="div-ff">
+<nav aria-label="Vous êtes ici :" class="fr-breadcrumb fr-mt-6v fr-mb-2w" role="navigation">
+<div id="breadcrumb">
+<ol class="fr-breadcrumb__list">
+<li><a class="fr-breadcrumb__link" href="https://dossierappel.parcoursup.fr/Candidat/carte">Rechercher une formation</a></li>
+<li><span aria-current="page" class="fr-breadcrumb__link">Ascencia Business School - Paris-la-Défense</span></li>
+</ol>
+</div>
+</nav>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/css/fiche-formation.15dea83300a2a0a94d332cf80aa1b9aff60dd1b85c2b47e56e279e1ec0af26fb.css" integrity="sha256-Fd6oMwCioKlNMyz4CqG5r/YN0bhcK0flbieeHsCvJvs=" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha256-dmdQrxJtAvLt2RgNLbCLbSp+mLPzEdAW6laVpxeRLHQ=" src="https://ressource.parcoursup.fr/js/fiche-formation.766750af126d02f2edd9180d2db08b6d2a7e98b3f311d016ea5695a717912c74.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha256-pCmzM1qQ3B9FPpirlYuuMNnAXyYMXOF3AVwnDqdOLjE=" src="https://ressource.parcoursup.fr/js/favoris.a429b3335a90dc1f453e98ab958bae30d9c05f260c5ce177015c270ea74e2e31.js" type="text/javascript"></script>
+<link crossorigin="anonymous" href="https://ressource.parcoursup.fr/css/favoris.9a59b6f19cf8dfff64c130119613e1b9027325ca9727ee1df5f297125bcf0b1a.css" integrity="sha256-mlm28Zz43/9kwTARlhPhuQJzJcqXJ+4d9fKXElvPCxo=" rel="stylesheet"/>
+<!-- Modal Mon appréciation personnelle - S'ouvre lors d'ajout de favoris -->
+<dialog aria-labelledby="fr-modal-title-modal-1" class="fr-modal" data-fr-js-modal="true" id="fr-modal-avis" role="dialog">
+<div class="fr-container fr-container--fluid fr-container-md">
+<div class="fr-grid-row fr-grid-row--center">
+<div class="fr-col-12 fr-col-md-8 fr-col-lg-6">
+<div class="fr-modal__body">
+<div class="fr-modal__header">
+<button aria-controls="fr-modal-avis" class="fr-btn--close fr-btn" id="fermer-modal" onclick="annulerModal()" title="Fermer la fenêtre modale">Fermer</button>
+</div>
+<div class="fr-modal__content psup-rating-circles-favoris" id="fr-modal-avis-content">
+<h1 class="fr-modal__title" id="fr-modal-title-modal-1">
+<span aria-hidden="true" class="fr-icon-user-heart-line fr-pr-1w icon-appreciation"></span>
+<b>Mon appréciation personnelle</b>
+</h1>
+<div class="fr-highlight">
+<p class="fr-text--sm">La formation est enregistrée dans vos Favoris.</p><p>
+</p></div>
+<p class="fr-text--bold fr-text-action-high--blue-france">CONFIDENTIEL : Les formations n’ont pas accès à vos favoris et à vos appréciations personnelles.</p>
+<p class="fr-mb-1w">Mon niveau d'intérêt pour cette formation</p>
+<div class="psup-rating-circles">
+<button class="psup-rating-circle" data-index="0" title="1 sur 5"></button>
+<button class="psup-rating-circle" data-index="1" title="2 sur 5"></button>
+<button class="psup-rating-circle" data-index="2" title="3 sur 5"></button>
+<button class="psup-rating-circle" data-index="3" title="4 sur 5"></button>
+<button class="psup-rating-circle" data-index="4" title="5 sur 5"></button>
+</div><br/>
+<div class="fr-input-group">
+<label class="fr-label" for="mesRemarques">Mes remarques :</label>
+<textarea class="fr-input" id="mesRemarques" maxlength="250" name="mesRemarques"></textarea>
+</div>
+</div>
+<div class="fr-modal__footer">
+<ul class="fr-btns-group fr-btns-group--right fr-btns-group--inline-reverse fr-btns-group--inline-lg fr-btns-group--icon-left">
+<li>
+<button class="fr-btn" id="sauvegarde-modal" onclick="sauvegardeModal()">
 	                                    Enregistrer 
-	                                
-
-
-
+	                                </button>
+</li>
+<li>
+<button class="fr-btn fr-btn--secondary" id="btn-saisir-plus-tard-avis" onclick="choixSaisieProchaine()">
 	                                    Saisir plus tard
-	                                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fermer
-
-
-
-
-Erreur
-
-
-
-
-
-
-
-Fermer
-
-
-
-
-
-
-
-
-
-
-
-
+	                                </button>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</dialog>
+<button aria-controls="modal-erreur-action-ff-comparateur" class="fr-btn fr-hidden" data-fr-opened="false" id="btn-modal-erreur-action-ff-comparateur"></button>
+<dialog aria-labelledby="titre-modal-erreur-action-ff-comparateur" class="fr-modal" data-fr-js-modal="true" id="modal-erreur-action-ff-comparateur" role="dialog">
+<div class="fr-container fr-container--fluid fr-container-md">
+<div class="fr-grid-row fr-grid-row--center">
+<div class="fr-col-12 fr-col-md-8 fr-col-lg-6">
+<div class="fr-modal__body">
+<div class="fr-modal__header">
+<button aria-controls="modal-erreur-action-ff-comparateur" class="fr-btn--close fr-btn" id="fermer-modal" title="Fermer la fenêtre modale">Fermer</button>
+</div>
+<div class="fr-modal__content" id="modal-erreur-action-ff-comparateur-content">
+<h1 class="fr-modal__title" id="titre-modal-erreur-action-ff-comparateur">
+<span class="fr-icon-fr-icon-arrow-right-line fr-icon--lg"></span>
+<b>Erreur</b>
+</h1>
+<div id="message-erreur-action-ff-comparateur">
+</div>
+</div>
+<div class="fr-modal__footer">
+<ul class="fr-btns-group fr-btns-group--right fr-btns-group--inline-reverse fr-btns-group--inline-lg fr-btns-group--icon-left">
+<li>
+<button aria-controls="modal-erreur-action-ff-comparateur" class="fr-btn" id="btn-fermer-modal" title="Fermer la fenêtre modale">Fermer</button>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</dialog>
+<!-- HEADER -->
+<div class="fr-background-contrast--blue-france" id="header-fiche">
+<h1 id="ff-titre-page">
+<img alt="" src="https://ressource.parcoursup.fr/framework/img/profile-line.a7d319eebbaf6c957e5468c456d02c761d5bb6bfd02d852d29480a6a7d2bbf33.svg"/>
 
 			Carte d'identité de la formation
-		
-
-Ajouter la formation 'Licence - Langues étrangères appliquées - Parcours Langues étrangères appliquées, Traduction scientifique et technique, option Anglais Espagnol' à 'Université de Mulhouse ( 68 )' aux favoris
-
-
-
-
+		</h1>
+<div class="text-right fr-mt-3w fr-mt-md-0">
+<button class="fr-btn fr-btn--tertiary fr-icon fr-icon-heart-line fr-btn--icon btn-avis icon-appreciation" data-isfavoris="false" id="btn-favoris-46495" onclick="connexionFavori('https://dossierappel.parcoursup.fr/Candidat/authentification?redirect=carte&amp;callbackparam=YWZmaWNoZXJGaWNoZUZvcm1hdGlvbj9nX3RhX2NvZD00NjQ5NSZ0eXBlQmFjPTAmb3JpZ2luZVBjPTA=', 46495)" title="Ajouter la formation 'Formation professionnelle - Chargé de marketing et communication (Bac +3) - en apprentissage' à 'Ascencia Business School - Paris-la-Défense ( Puteaux - 92 )' aux favoris" type="button">Ajouter la formation 'Formation professionnelle - Chargé de marketing et communication (Bac +3) - en apprentissage' à 'Ascencia Business School - Paris-la-Défense ( Puteaux - 92 )' aux favoris</button>
+</div>
+<div class="fr-grid-row fr-grid-row--gutters">
+<div class="fr-col-12">
+<h2 class="fr-h3 fr-my-1w">
 					
-						Université de Mulhouse (68)Licence - Langues étrangères appliquées - Parcours Langues étrangères appliquées, Traduction scientifique et technique, option Anglais Espagnol
-
-
-
-Établissement
-
-
-Établissement public
-
-
-Formation
-
-
-
-Formation ouvrant droit aux bourses
-
-
-10 places en 2025
-
-
-66 vœux confirmés en 2025
-
-
-
-
-
-
-
-Diplôme national de licence contrôlé par l'Etat
-
-
-
-
-
-
-
-
-Partager la pagePartager par e-mailCopier dans le presse-papier
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Découvrir la formation et ses caractéristiques
-
-
-
-
-
-Comprendre les critères d'analyse des candidatures
-
-
-
-
-
-Consulter les modalités de candidature
-
-
-
-
-
-Visualiser les chiffres d'accès à la formation
-
-
-
-
-
-Poursuivre ses études et connaitre les débouchés
-
-
-
-
-
-Contacter et échanger avec l'établissement
-
-
-
-
-Découvrir la formation et ses caractéristiques
-
-
-
-
-Présentation de la formation
-
-Cette licence mise sur l'acquisition associée de langues de spécialité (anglais et espagnol) et de matières scientifiques. Ces diplômés vont travailler en entreprise dans des services de communication, en traduction scientifique et technique, dans un environnement pluriculturel.Année 1 : Anglais, Espagnol, Droit, Économie et Gestion, Sciences, Méthodologie, Langues et Cultures, Communication Orale et Écrite, Culture Scientifique et Technique, UE Libre (stage possible).Année 2 : Langues et Cultures, Traductions Spécialisées, Expression, Culture Scientifique, Méthodologie, UE Libre (stage possible).Année 3 : Anglais, Espagnol, Culture scientifique et langues (mobilité possible), Professionnalisation, UE libre, stage de 8 semaines au minimum ou mobilité dans une université partenaire.Ouverture internationale :Les étudiants sont encouragés à passer un ou deux semestres à l'international dans les établissements partenaires en Europe (Allemagne, Espagne, Italie, Royaume-Uni) et au-delà (Canada, Brésil, Chili, etc.). Des bourses (Erasmus + régionales) sont attribuées à la majorité des étudiants afin de les aider financièrement à l'étranger.CompétencesMaîtriser des concepts théoriques dans plusieurs langues étrangères et aires socio-culturelles.Mobiliser des outils linguistiques pour une communication dans deux langues étrangères.Produire des traductions spécialisées des langues étrangères vers la langue maternelle ou réciproquement.Identifier et mobiliser les concepts scientifiques pour remplir des missions de communication, traduction, négociation commerciale.Maîtriser les outils numériques de référence.Informations :  http://www.flsh.uha.fr/formations/lea/ 
-
-
-
-Voir la fiche Onisep
-
-
-
-
-
-À savoir
-Frais de scolarité
-
-Par année
- 
+						Ascencia Business School - Paris-la-Défense (Puteaux - 92)<br/><span class="fr-h4">Formation professionnelle - Chargé de marketing et communication (Bac +3) - en apprentissage</span>
+</h2>
+<div id="header-ff-liste-badges">
+<div class="div-titre-liste-badges">
+<p class="titre-liste-badges">Établissement</p>
+</div>
+<div>
+<span class="fr-badge pca-badge-custom" id="badge-type-contrat">Etablissement privé</span>
+</div>
+<div class="div-titre-liste-badges">
+<p class="titre-liste-badges">Formation</p>
+</div>
+<ul>
+<li>
+<span class="fr-badge pca-badge-custom">Formation sélective</span>
+</li>
+<li>
+<span class="fr-badge pca-badge-custom">Formation n’ouvrant pas droit aux bourses</span>
+</li>
+<li>
+<span class="fr-badge pca-badge-custom">60 places en 2025</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="fr-col-12">
+<div class="d-flex flex-column h-100">
+<div class="flex-1-1-auto d-flex flex-column justify-content-end">
+<div class="d-flex justify-content-end-md fr-pl-1w fr-pl-md-0">
+<div class="fr-share"><p class="fr-share__title">Partager la page</p><ul class="fr-share__group justify-content-end-md"><li><a class="fr-share__link fr-share__link--mail" href="mailto:" target="_blank" title="Partager par e-mail - Nouvelle fenêtre">Partager par e-mail</a></li><li><button class="fr-share__link fr-share__link--copy" onclick="navigator.clipboard.writeText(window.location);alert('Adresse copiée dans le presse papier.');" title="Copier dans le presse-papier">Copier dans le presse-papier</button></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<input id="csrfToken" name="csrfToken" type="hidden" value="HvwGn23ZMfALGpIrCfkkDl4PgedUn4r1mTuv2oMoeVKHInzZLc5l_Qm8BMEmeKMaPNQQOz8_rIVtp7vYqVnM7ucRGDa-EUju"/>
+<input id="csrfParameterName" name="csrfParameterName" type="hidden" value="_csrf"/>
+<input id="callback_g_ta_cod" name="callback_g_ta_cod" type="hidden" value="null"/>
+<script data-gcn="1" data-gta="46495" data-isfavoris="false" data-libelleformation="'Formation professionnelle - Chargé de marketing et communication (Bac +3) - en apprentissage' à 'Ascencia Business School - Paris-la-Défense (Puteaux - 92)'" data-messageavecvoeux="Cette formation va être rajoutée à vos favoris. Vous avez déjà effectué un vœu pour cette formation." data-messagesansvoeux="Cette formation va être ajoutée à vos favoris. Attention, pour autant elle ne sera pas ajoutée à votre liste de vœux Parcoursup." data-suppressionavecvoeux="Supprimer cette formation de vos favoris ? Cela ne la supprimera pas votre liste de vœux" data-suppressionsansvoeux="Supprimer cette formation de vos favoris ?" data-urlabonnementjpo="/Candidats/api/fiches/abonnementJPO" data-urlfavorisformation="/Candidats/api/fiches/favoris" data-urlmodificationavis="/Candidats/api/fiches/modifAppPerso" id="scriptDSFR-46495">
+</script>
+</div>
+<div class="fr-grid-row">
+<div class="fr-col-12 fr-p-0" id="dcp-ff">
+<div class="fr-tabs psup-tabs" id="tabs-infos-ff" style="--pca-nb-onglets : 5">
+<ul aria-label="Onglets - fiche formation" class="fr-tabs__list" role="tablist">
+<li role="presentation">
+<button aria-controls="tabpanel-1-panel" aria-selected="true" class="fr-tabs__tab" id="tabpanel-1" role="tab" tabindex="0">
+<img alt="" src="https://ressource.parcoursup.fr/img/menuFF/onglet1.a35fba29956312df03938167b0edadf83efda2d323f0967dbf073326d624f5d0.svg"/>
+<span>Découvrir la formation et ses caractéristiques</span>
+</button>
+</li>
+<li role="presentation">
+<button aria-controls="tabpanel-2-panel" aria-selected="false" class="fr-tabs__tab" id="tabpanel-2" role="tab" tabindex="-1">
+<img alt="" src="https://ressource.parcoursup.fr/img/menuFF/onglet2.7a0092acd51e6de3216f7eb5e50b2fd720de18dfa0bbc51b408a09cbf5083ffe.svg"/>
+<span>Comprendre les critères d'analyse des candidatures</span>
+</button>
+</li>
+<li role="presentation">
+<button aria-controls="tabpanel-3-panel" aria-selected="false" class="fr-tabs__tab" id="tabpanel-3" role="tab" tabindex="-1">
+<img alt="" src="https://ressource.parcoursup.fr/img/menuFF/onglet3.7ac12d063c6a981025fe5235803e2467542ce0bd9997de06a11815c71cf71158.svg"/>
+<span>Consulter les modalités de candidature</span>
+</button>
+</li>
+<li role="presentation">
+<button aria-controls="tabpanel-5-panel" aria-selected="false" class="fr-tabs__tab" id="tabpanel-5" role="tab" tabindex="-1">
+<img alt="" src="https://ressource.parcoursup.fr/img/menuFF/onglet5.fda4119edaecd3e0b16687b24a8797b9fac9fa90fb776dce00414a3b93b31f39.svg"/>
+<span>Poursuivre ses études et connaitre les débouchés</span>
+</button>
+</li>
+<li role="presentation">
+<button aria-controls="tabpanel-6-panel" aria-selected="false" class="fr-tabs__tab" id="tabpanel-6" role="tab" tabindex="-1">
+<img alt="" src="https://ressource.parcoursup.fr/img/menuFF/onglet6.deee8e8bbce27d18883ed369f98715b29d4e3bf109be102f56a7a4a8545797e3.svg"/>
+<span>Contacter et échanger avec l'établissement</span>
+</button>
+</li>
+</ul>
+<div aria-labelledby="tabpanel-1" class="fr-tabs__panel fr-tabs__panel--selected" id="tabpanel-1-panel" role="tabpanel" tabindex="0">
+<h3 class="fr-sr-only">Découvrir la formation et ses caractéristiques</h3>
+<div class="fr-grid-row fr-grid-row-sm--gutters">
+<data id="val-csrf-value" value="HvwGn23ZMfALGpIrCfkkDl4PgedUn4r1mTuv2oMoeVKHInzZLc5l_Qm8BMEmeKMaPNQQOz8_rIVtp7vYqVnM7ucRGDa-EUju"></data>
+<data id="val-csrf-parameterName" value="_csrf"></data>
+<div class="fr-col-sm-12 fr-col-lg-6 fr-pt-3w">
+<h4>Présentation de la formation</h4>
+<div class="fr-mt-3w">
+<div class="word-break-break-word"><p>Le Chargé de marketing et communication peut exercer dans tous les secteurs marchands et dans tous les types d'activités visant au développement du chiffre d’affaires d’une organisation</p><p>Garant des résultats, tant marketing que communication, sur son périmètre de responsabilité, il pilote en autonomie les actions nécessaires à l’atteinte de ses objectifs en cohérence avec le plan marketing opérationnel menée par l’organisation et avec la stratégie marketing globale déterminée par le Top management.</p><p>En collaboration avec la Direction Marketing/Communication ou la Direction Générale, l’un des rôles clé du chargé de marketing et communication est la traduction opérationnelle qu’il réalise donnant à cette fonction une dimension « pivot » entre la.les directions et les équipes opérationnelles internes et externes. Cette activité constitue un élément fondateur de la cohérence et de la pertinence de la stratégie marketing et communication. Or cohérence et pertinence sont les qualités primordiales les plus difficiles à obtenir pour que la notoriété bénéficie autant aux actions commerciales qu’à la cohésion interne et à l’attractivité de l’entreprise.</p><p>Professionnel connecté, le chargé de marketing et communication est un créateur de point de contact avec l’utilisation des nouveaux canaux de communication à l’ère de l’avènement du digital et de la transformation numérique des entreprises et des clients / utilisateurs. Parfois cross canal ou multicanal, il est aujourd’hui plus agile pour déployer une approche marketing omnicanale en utilisant des canaux digitaux et traditionnels afin de délivrer un message fluide et une expérience cohérente.</p></div>
+</div>
+<h4 class="fr-mt-3w">Apprentissage</h4>
+<p class="fr-mb-0">
+			Pour avoir le statut d’apprenti et être rémunéré, vous devez trouver un contrat d’apprentissage.<br/> 
+			Nous vous conseillons de rapidement contacter la formation choisie pour démarrer vos démarches d’inscription et de recherche de contrat.<br/>
+			Vous pouvez aussi <a class="" href="https://www.parcoursup.fr/index.php?desc=formations_apprentissage" id="lien-app" rel="noopener" target="_blank" title="Consulter notre dossier d'aide sur les formations en apprentissage - Nouvelle fenêtre">consulter notre dossier d’aide</a>
+.
+		</p>
+<div class="fr-callout fr-callout--blue-cumulus fr-mt-2w"><h5 class="fr-callout__title">Accompagnement à la recherche de contrat</h5>
+<p>Aide à l'accompagnement au travers d'ateliers pour la refonte du CV, de la lettre de motivation. Séminaire de Techniques de recherche d'entreprises pour maximiser la recherche d'alternance.</p><p>Les ateliers de Techniques de Recherches d'Emplois sont conçus afin :</p><p>D'aider un candidat à s’engager dans un processus actif de recherche d’emploi.</p><p>De connaître les nouvelles techniques et stratégies nécessaires à cette recherche.</p><p>D'identifier les compétences professionnelles et apprendre à les valoriser.</p><p>De travailler sur la confiance en soi.</p>
+<p>Les étudiants seront convoqués par : Courrier électronique et postal</p>
+<p class="fr-mt-2w"><span class="fr-text--heavy">Période des convocations : </span>01/02/2025 au 31/10/2015</p>
+<p><span class="fr-text--heavy">Période des sessions d'accompagnement : </span>01/02/2025 au 31/10/2015</p>
+</div>
+<div class="d-flex flex-column fr-mt-2w">
+<img alt="La Bonne Alternance - Pôle emploi" class="fr-responsive-img image-lba-pole-emploi" src="https://ressource.parcoursup.fr/img/logo-lba.bec232dfafde77871d89e79dfdc2d60b2179a8287eb78d0d34542aa16a561643.svg"/>
+</div>
+<p class="fr-mt-2w"><b>Des entreprises recrutent régulièrement en apprentissage</b></p>
+<p>Dans le métier/domaine Chargé de marketing et communication (Bac +3) - en apprentissage, à Puteaux (92800)</p>
+<div class="fr-grid-row fr-mt-3w">
+<div class="fr-col-12">
+<div class="fr-tile fr-enlarge-link fr-tile--sm" id="lien-alternance-entreprises"><div class="fr-tile__body"><h4 class="fr-tile__title"><a class="fr-tile__link" href="https://labonnealternance.apprentissage.beta.gouv.fr/recherche-emploi?&amp;caller=parcoursup&amp;romes=M1705,E1101,E1103,M1703&amp;lon=2.32004&amp;lat=48.85888" rel="noopener" target="_blank" title="Consulter les entreprises - Nouvelle fenêtre">Consulter les entreprises</a></h4></div></div>
+</div>
+</div>
+<div class="fr-highlight fr-highlight--blue-cumulus fr-pl-2w fr-ml-1w fr-mt-2w"><p>Période favorable à l'embauche : de janvier à avril</p></div>
+<p class="fr-mt-2w">
+			Pour calculer votre salaire :
+			<a class="" href="https://www.alternance.emploi.gouv.fr/simulateur-alternant/etape-1" id="lien-simulateur-alternance" rel="noopener" target="_blank" title="consulter le simulateur de rémunération du site alternance.gouv.fr - Nouvelle fenêtre">consulter le simulateur de rémunération du site alternance.gouv.fr</a>
+.
+		</p>
+<div class="fr-mt-3w">
+<div class="fr-highlight fr-highlight--blue-cumulus fr-ml-0 fr-pl-2w">
+<p class="fr-mb-1w"><a class="fr-link fr-link--icon-right fr-icon fr-icon-arrow-right-line fr-link--icon-left" href="https://www.onisep.fr/http/redirection/formation/slug/FOR.9107" id="lien-onisep" rel="noopener" target="_self">Voir la fiche Onisep</a>
+</p>
+</div>
+</div>
+</div>
+<div class="fr-col-sm-12 fr-col-lg-6 fr-pt-3w">
+<h4>À savoir</h4>
+<div class="fr-callout fr-callout--yellow-moutarde"><h5 class="fr-callout__title">Frais de scolarité</h5>
+<div class="fr-mb-2w">
+<h6>Par année</h6>
+<p class="fr-mb-0"> 
 							
-								178 euros.
+								Aucun frais - les frais sont à la charge de l'employeur
 							
-						
+						</p>
+</div>
+<p class="fr-mt-4w">
+<em><span class="fr-sr-only">Note :</span> Sauf indication contraire les sommes indiquées sont en euros</em>
+</p>
+</div>
+<div class="fr-alert fr-alert--info fr-mb-2w"><p>
 
-
-Par année pour les étudiants boursiers
- 
-							
-									Pas de frais pour les boursiers.
-							
-						
-
-
-Contribution Vie Etudiante et de Campus (CVEC)
-Une Contribution Vie Etudiante et de Campus (CVEC) est à régler, avant l’inscription administrative,  par chaque étudiant dans la plupart des formations présentes sur Parcoursup. Pour plus d’informations sur les formations concernées par le paiement de la CVEC et les exonérations prévues :
-https://cvec.etudiant.gouv.fr/
-
-
-Note : Sauf indication contraire les sommes indiquées sont en euros
-
-
-Information : Bourses de l'enseignement supérieur
-
-				L’inscription dans cette formation permet de demander une bourse sous conditions de critères sociaux à l’aide du dossier social étudiant. 
-			
-
-Langues et options 
-
-
+				Les formations donnant lieu à rémunération ne sont pas éligibles aux bourses. 
+			</p></div>
+<div class="fr-accordions-group fr-my-3w fr-my-0">
+<section class="fr-accordion" id="acc-lang-opt"><h5 class="fr-accordion__title"><button aria-controls="accordion-acc-lang-opt" aria-expanded="false" class="fr-accordion__btn" type="button">Langues et options</button></h5> <div class="fr-collapse" id="accordion-acc-lang-opt">
+<ul>
+<li>
 						Langue vivante 1 : 
 						
 							Anglais
 						
-					
-
+					</li>
+<li class="fr-mt-1w">
 						Langue vivante 2 : 
 						
-							Espagnol
+							Pas de LV2
 						
-					
-Niveau de français requis pour s'inscrire à la formation : B2
-
-
-Aménagement pour les publics ayant un profil particulier 
-Sportif de haut niveau
- 
-							Possibilité d'aménagement de la scolarité pour les sportifs de haut niveau. 
+					</li>
+<li class="fr-mt-1w">Niveau de français requis pour s'inscrire à la formation : B2</li>
+</ul>
+</div></section>
+<section class="fr-accordion" id="acc-prof-partic"><h5 class="fr-accordion__title"><button aria-controls="accordion-acc-prof-partic" aria-expanded="false" class="fr-accordion__btn" type="button">Aménagement pour les publics ayant un profil particulier</button></h5> <div class="fr-collapse" id="accordion-acc-prof-partic">
+<h6>Sportif de haut niveau</h6>
+<p> 
+							Possibilité d'aménagement de la scolarité pour les sportifs de haut niveau.<br/> 
 							Pour plus d'information  
 							
 								sur les aménagements pour les sportifs de haut niveau, 
-								consultez le site d'information de l'établissement https://www.uha.fr/fr/vie-universitaire-1/sport/sportifs-de-haut-niveau.html
-
-Artiste confirmé
- 
-							Possibilité d'aménagement de la scolarité pour les artistes confirmés. 
+								<a class="" href="https://www.ascencia-business-school.com/" id="lien-info-spo-hau-niv" rel="noopener" target="_blank" title="consultez le site d'information de l'établissement : sportifs de haut niveau - https://www.ascencia-business-school.com/ - Nouvelle fenêtre">consultez le site d'information de l'établissement https://www.ascencia-business-school.com/</a>
+</p>
+<h6>Artiste confirmé</h6>
+<p> 
+							Possibilité d'aménagement de la scolarité pour les artistes confirmés.<br/> 
 							Pour plus d'information  
 							
 								sur les aménagements pour les artistes confirmés, 
-								consultez le site d'information de l'établissement https://www.uha.fr/fr/vie-universitaire-1/culture-1/statut-etudiant-artiste.html
-
-Autres publics ayant un profil particulier
- 
-							Possibilité d'aménagement de la scolarité pour d'autres publics spécifiques. 
+								<a class="" href="https://www.ascencia-business-school.com/" id="lien-info-art-hau-niv" rel="noopener" target="_blank" title="consultez le site d'information de l'établissement : artistes confirmés - https://www.ascencia-business-school.com/ - Nouvelle fenêtre">consultez le site d'information de l'établissement https://www.ascencia-business-school.com/</a>
+</p>
+<h6>Autres publics ayant un profil particulier</h6>
+<p> 
+							Possibilité d'aménagement de la scolarité pour d'autres publics spécifiques.<br/> 
 							Pour plus d'information  
 							
 								sur les aménagements pour les autres publics spécifiques de la formation, 
-								consultez le site d'information de l'établissement http://entrepreneuriat.uha.fr
-
-
-Dispositifs d'aide à la réussite 
-Tutorat : le tutorat est assuré par des étudiants avancés, encadrés par des enseignants chercheurs.  Partie intégrante de l'accompagnement des étudiants, il porte essentiellement sur l'apprentissage de la méthodologie du travail universitaire.
-
-
-
-
-Contacter et échanger avec l'établissement
-
-
-Comprendre les critères d'analyse des candidatures
-
-
-
-
-Comprendre les critères d'analyse des candidatures
-
-
-Quels sont les critères utilisés par l'établissement pour analyser votre candidature ?
-
-
-Grille d’analyse des candidatures définie par la commission d'examen des voeux de la formation
-
-
-
-
+								<a class="" href="https://www.ascencia-business-school.com/" id="lien-info-amenagement-pub-spe" rel="noopener" target="_blank" title="consultez le site d'information de l'établissement : aménagements pour les autres publics spécifiques - https://www.ascencia-business-school.com/ - Nouvelle fenêtre">consultez le site d'information de l'établissement https://www.ascencia-business-school.com/</a>
+</p>
+</div></section>
+<section class="fr-accordion" id="acc-dis-reu"><h5 class="fr-accordion__title"><button aria-controls="accordion-acc-dis-reu" aria-expanded="false" class="fr-accordion__btn" type="button">Dispositifs d'aide à la réussite</button></h5> <div class="fr-collapse" id="accordion-acc-dis-reu">
+<div class="word-break-break-word"><p>HISSER LES APPRENANTS PLUS HAUT ET PLUS LOIN: Réaliser votre potentiel d'ascension, c'est l'ambition d'Ascencia. A travers un suivi individualisé des étudiants, nos équipes se mettent au service de votre avenir : venez nous présenter vos projets, et nous mettrons tout en œuvre pour vous aider à les concrétiser.</p><p>Nos formations s'appuient sur une pédagogie participative et innovante basée sur la valeur de l'exemple et l'échange constant entre apprenants et professionnels expérimentés. Les réalités de la vie des entreprises se trouvent au cœur même des méthodes d'apprentissage personnalisées que nous employons. Elles sont destinées à repérer les potentiels et à faire éclore les vocations de managers et de développeurs d'entreprise. </p><p>UN ETABLISSEMENT ACCESSIBLE : Ascencia Business School se veut avant tout un établissement ouvert, ne proposant pas une vision fermée de l'élitisme. Il est accessible à tous les jeunes qui souhaitent s'élever académiquement et professionnellement. Les formations peuvent être gratuites car elles sont prises en charge par les entreprises partenaires dans le cadre des contrats d'alternance (contrat de professionnalisation ou d'apprentissage). </p><p>L'EXCELLENCE, UNE PRIORITÉ POUR ASCENCIA BUSINESS SCHOOL: L'excellence signifie l'engagement de tous nos programmes dans une dynamique de certification. En effet, tous les titres que nous délivrons sont reconnus par l'Etat aux niveaux 6 et 7.</p></div>
+</div></section>
+</div>
+</div>
+<div class="fr-col-12 fr-col-sm-6">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-left-line fr-btn--icon-left btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-6-panel" id="btn-onglet-precedent-1" title="Onglet précédent : Contacter et échanger avec l'établissement" type="button">Contacter et échanger avec l'établissement</button>
+</div>
+<div class="fr-col-12 fr-col-sm-6 text-right text-center-sm">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-right-line fr-btn--icon-right btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-2-panel" id="btn-onglet-suivant-1" title="Onglet suivant : Comprendre les critères d'analyse des candidatures" type="button">Comprendre les critères d'analyse des candidatures</button>
+</div>
+</div>
+</div>
+<div aria-labelledby="tabpanel-2" class="fr-tabs__panel" id="tabpanel-2-panel" role="tabpanel" tabindex="0">
+<h3 class="fr-sr-only">Comprendre les critères d'analyse des candidatures</h3>
+<div class="fr-grid-row fr-grid-row-sm--gutters">
+<div class="fr-col-12">
+<h4 id="titre-onglet-2">Quels sont les critères utilisés par l'établissement pour analyser votre candidature ?</h4>
+</div>
+<div class="fr-col-sm-12 fr-col-lg-6 fr-pt-3w">
+<h5>Grille d’analyse des candidatures définie par la commission d'examen des voeux de la formation</h5>
+<div class="fr-my-4w d-flex justify-content-center">
+<div class="d-flex" id="div-analyse-cddt-onglet2">
+<div class="pca-accolade-verticale-cadre">
+<div class="pca-accolade-verticale-texte">
 									100%
-								
-
-
-
-
-
-
-
-
-
-
-Résultats scolaires
-
-50 %
-
-
-
-Méthodes de travail
-
-20 %
-
-
-
-Savoir-être
-
-15 %
-
-
-
-Motivation
-
-10 %
-
-
-
-Engagement et activités
-
-5 %
-
-
-
-
-
+								</div>
+<div class="pca-accolade-verticale">
+<div class="pca-accolade-verticale-branche pca-accolade-verticale-branche-externe"></div>
+<div class="pca-accolade-verticale-branche pca-accolade-verticale-branche-interne"></div>
+<div class="pca-accolade-verticale-branche pca-accolade-verticale-branche-interne"></div>
+<div class="pca-accolade-verticale-branche pca-accolade-verticale-branche-externe"></div>
+</div>
+</div>
+<ul class="width-fit-content fr-pl-0 fr-my-0">
+<li class="badge-data" data-couleur-cgev="">
+<div class="badge-data-label">
+<div>Résultats scolaires</div>
+</div>
+<div class="badge-data-value">25 %</div>
+</li>
+<li class="badge-data" data-couleur-cgev="">
+<div class="badge-data-label">
+<div>Méthodes de travail</div>
+</div>
+<div class="badge-data-value">25 %</div>
+</li>
+<li class="badge-data" data-couleur-cgev="">
+<div class="badge-data-label">
+<div>Savoir-être</div>
+</div>
+<div class="badge-data-value">25 %</div>
+</li>
+<li class="badge-data" data-couleur-cgev="">
+<div class="badge-data-label">
+<div>Motivation</div>
+</div>
+<div class="badge-data-value">15 %</div>
+</li>
+<li class="badge-data" data-couleur-cgev="">
+<div class="badge-data-label">
+<div>Engagement et activités</div>
+</div>
+<div class="badge-data-value">10 %</div>
+</li>
+</ul>
+</div>
+</div>
+<p class="fr-text--sm fr-mt-2w fr-mb-2">
 					Cette grille permet d'indiquer le niveau d'importance accordé par la formation à chaque élément. 
 					Plus le pourcentage est élevé plus l'élément compte dans l'examen des candidatures.
+				</p>
+<div class="fr-col-12 fr-py-0">
+<div class="psup-carte-image carte-cordees"><div><img alt="Les cordées de la réussite" class="fr-responsive-img" src="/Candidats/static/framework/img/cordee_reussite.jpg"/></div><div>
+
+			La formation prend en compte la participation des lycéens aux cordées de la réussite dans l'analyse des candidatures.
+		</div></div>
+</div>
+</div>
+<div class="fr-col-sm-12 fr-col-lg-6 fr-pt-3w">
+<h5>L’examen des candidatures par les formations</h5>
+<div class="fr-accordions-group">
+<section class="fr-accordion" id="acc-cev-qui"><h6 class="fr-accordion__title"><button aria-controls="accordion-acc-cev-qui" aria-expanded="false" class="fr-accordion__btn" type="button">Qui analyse les candidatures ?</button></h6> <div class="fr-collapse" id="accordion-acc-cev-qui">
+<p><b>Ce sont les enseignants de la formation qui analysent votre candidature dans le cadre d’une commission d'examen des vœux (ou jury) constituée principalement de professeurs.</b> Cette commission définit les modalités et les critères d'analyse des candidatures renseignés sur cette fiche. Parcoursup n’analyse aucune candidature.</p>
+</div></section>
+</div>
+<div class="fr-callout fr-callout--blue-cumulus fr-mt-3w"><h6 class="fr-callout__title">Conseils aux candidats</h6>
+<div class="word-break-break-word"><p>Les candidats doivent faire preuve d'autonomie et d'organisation, qualités importantes pour mener à bien les projets. Ils doivent travailler en groupe et faire preuve d'investissement, de curiosité et d'anticipation.</p><p><strong>Compétences Générales </strong>: Avoir une maitrise du français permettant de communiquer à l’écrit et à l’oral de façon adaptée. Avoir une connaissance suffisante de l’anglais permettant de progresser pendant la formation. Savoir mobiliser ses connaissances et développer un sens critique, être capable d’évoluer dans un environnement professionnel et détenir les bases en bureautique.</p><p><strong>Compétences Techniques</strong> : Utiliser méthodologiquement les technologies de l’information et de la communication, savoir mobiliser ses connaissances pour répondre à une résolution de problème, élaborer un raisonnement adapté à une situation.</p><p><strong>Qualités Humaines</strong> : Avoir une première réflexion sur son projet professionnel, avoir l'esprit d'équipe et respecter les règles de fonctionnement d’une organisation.</p></div>
+</div>
+</div>
+<div class="fr-col-12 fr-pt-3w">
+<h5 id="titre-detail-cgev">Détails de la grille d’analyse des candidatures par la commission</h5>
+<div class="fr-mb-5w">
+<h6 class="fr-mb-1w">Vos résultats scolaires ou obtenus dans l'enseignement supérieur comptent pour 25%</h6>
+<ul class="fr-toggle__list">
+<li class="fr-p-2w fr-mt-2w">
+<p class="fr-sr-only">Critère d'évaluation essentiel : Niveau Pédagogique</p>
+<div class="psup-criteria-detail">
+<div class="psup-criteria-detail-title">
+												Niveau Pédagogique
+											</div>
+<div class="psup-criteria-detail-text">
+<p class="fr-text--bold fr-mr-1w">Éléments évalués :</p>
+												Bulletins de Notes
+											</div>
+<div class="psup-criteria-detail-rating">
+												 <div class="psup-rating"><span class="psup-rating-text">Essentiel</span><div class="psup-rating-circles"> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div></div></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="fr-mb-5w">
+<h6 class="fr-mb-1w">Vos compétences, méthodes de travail et savoir-faire comptent pour 25%</h6>
+<ul class="fr-toggle__list">
+<li class="fr-p-2w fr-mt-2w">
+<p class="fr-sr-only">Critère d'évaluation très important : Niveau Pédagogique</p>
+<div class="psup-criteria-detail">
+<div class="psup-criteria-detail-title">
+												Niveau Pédagogique
+											</div>
+<div class="psup-criteria-detail-text">
+<p class="fr-text--bold fr-mr-1w">Éléments évalués :</p>
+												Bulletin de Notes
+											</div>
+<div class="psup-criteria-detail-rating">
+												 <div class="psup-rating"><span class="psup-rating-text">Très important</span><div class="psup-rating-circles"> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle"></div></div></div>
+</div>
+</div>
+</li>
+<li class="fr-p-2w fr-mt-2w">
+<p class="fr-sr-only">Critère d'évaluation très important : Orthographe</p>
+<div class="psup-criteria-detail">
+<div class="psup-criteria-detail-title">
+												Orthographe
+											</div>
+<div class="psup-criteria-detail-text">
+<p class="fr-text--bold fr-mr-1w">Éléments évalués :</p>
+												Lettre de Motivation
+											</div>
+<div class="psup-criteria-detail-rating">
+												 <div class="psup-rating"><span class="psup-rating-text">Très important</span><div class="psup-rating-circles"> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle"></div></div></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="fr-mb-5w">
+<h6 class="fr-mb-1w">Votre savoir-être compte pour 25%</h6>
+<ul class="fr-toggle__list">
+<li class="fr-p-2w fr-mt-2w">
+<p class="fr-sr-only">Critère d'évaluation important : Savoir-Être</p>
+<div class="psup-criteria-detail">
+<div class="psup-criteria-detail-title">
+												Savoir-Être
+											</div>
+<div class="psup-criteria-detail-text">
+<p class="fr-text--bold fr-mr-1w">Éléments évalués :</p>
+												Attitude Professionnelle
+											</div>
+<div class="psup-criteria-detail-rating">
+												 <div class="psup-rating"><span class="psup-rating-text">Important</span><div class="psup-rating-circles"> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle"></div> <div aria-hidden="true" class="psup-rating-circle"></div></div></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="fr-mb-5w">
+<h6 class="fr-mb-1w">Votre motivation et la cohérence de votre projet comptent pour 15%</h6>
+<ul class="fr-toggle__list">
+<li class="fr-p-2w fr-mt-2w">
+<p class="fr-sr-only">Critère d'évaluation important : Motivation</p>
+<div class="psup-criteria-detail">
+<div class="psup-criteria-detail-title">
+												Motivation
+											</div>
+<div class="psup-criteria-detail-text">
+<p class="fr-text--bold fr-mr-1w">Éléments évalués :</p>
+												Lettre de Motivation
+											</div>
+<div class="psup-criteria-detail-rating">
+												 <div class="psup-rating"><span class="psup-rating-text">Important</span><div class="psup-rating-circles"> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle"></div> <div aria-hidden="true" class="psup-rating-circle"></div></div></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="fr-mb-5w">
+<h6 class="fr-mb-1w">Vos engagements, vos activités et centres d’intérêt comptent pour 10%</h6>
+<ul class="fr-toggle__list">
+<li class="fr-p-2w fr-mt-2w">
+<p class="fr-sr-only">Critère d'évaluation complémentaire : Profil</p>
+<div class="psup-criteria-detail">
+<div class="psup-criteria-detail-title">
+												Profil
+											</div>
+<div class="psup-criteria-detail-text">
+<p class="fr-text--bold fr-mr-1w">Éléments évalués :</p>
+												CV
+											</div>
+<div class="psup-criteria-detail-rating">
+												 <div class="psup-rating"><span class="psup-rating-text">Complémentaire</span><div class="psup-rating-circles"> <div aria-hidden="true" class="psup-rating-circle full"></div> <div aria-hidden="true" class="psup-rating-circle"></div> <div aria-hidden="true" class="psup-rating-circle"></div> <div aria-hidden="true" class="psup-rating-circle"></div></div></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<!-- SECTION CONNAISSANCES ET COMPÉTENCES ATTENDUES ()  -->
+<div class="fr-col-12">
+<h5>Les attendus</h5>
+<div class="word-break-break-word"><h2>Une spécialisation Marketing – Communication en 3ème année</h2><p>Si le marketing est la pierre angulaire d’une stratégie commerciale réussie, la communication en est la clé. Ascencia Business School vous donne les moyens de mener à bien des projets marketing à différentes échelles. Le parcours Marketing – Communication vous fournira les outils pour bâtir une stratégie de communication efficace et adaptée aux besoins et problématiques rencontrés par les entreprises. Votre polyvalence et votre opérationnalité immédiate feront de vous des profils très prisés.</p></div>
+</div>
+<div class="fr-col-12 fr-col-sm-6">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-left-line fr-btn--icon-left btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-1-panel" id="btn-onglet-precedent-2" title="Onglet précédent : Découvrir la formation et ses caractéristiques" type="button">Découvrir la formation et ses caractéristiques</button>
+</div>
+<div class="fr-col-12 fr-col-sm-6 text-right text-sm-center">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-right-line fr-btn--icon-right btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-3-panel" id="btn-onglet-suivant-2" title="Onglet suivant : Consulter les modalités de candidature" type="button">Consulter les modalités de candidature</button>
+</div>
+</div>
+</div>
+<div aria-labelledby="tabpanel-3" class="fr-tabs__panel" id="tabpanel-3-panel" role="tabpanel" tabindex="0">
+<h3 class="fr-sr-only">Consulter les modalités de candidature</h3>
+<div class="fr-grid-row fr-grid-row-sm--gutters">
+<div class="fr-col-12 fr-pt-3w">
+<!-- CONDITIONS D'INSCRIPTION -->
+<h4>Les conditions pour candidater</h4>
+<p>Sélectionnez votre voie de baccalauréat ou diplôme équivalent pour consulter les conditions de candidature :</p>
+<!-- FORMATION NON GEREE -->
+<section class="fr-accordion" id="btn-1"><h5 class="fr-accordion__title"><button aria-controls="accordion-btn-1" aria-expanded="false" class="fr-accordion__btn" type="button">Voie générale</button></h5> <div class="fr-collapse" id="accordion-btn-1">
+<h6 class="fr-mb-1w">Baccalauréat en préparation</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un baccalauréat en préparation, en voie générale</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Economique et sociale Franco-Allemande</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Littéraire Franco-Allemande</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Préparation au Bac Européen</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences Biologie Chimie Franco-Allemande</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences Mathématiques Physiques Franco-Allemande</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Série Générale</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Baccalauréat obtenu</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un baccalauréat obtenu, en voie générale</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">A-philosophie-lettres</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A1 latin-grec</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A1-lettres-sciences</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A2 latin-langues</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A2-lettres-langues</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A3 latin-mathematiques</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A3-lettres-arts plastiques</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A4 langues-mathematiques</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A5 langues</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A6 education musicale</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">A7 arts plastiques</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">B-economique et social                  </span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">C-mathematiques et sciences physiques</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">D'-sciences agronomiques et techniques</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Economique et social</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Economique et sociale Franco-Allemande</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Littéraire</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Littéraire Franco-Allemande</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Mathematiques et sciences de la nature</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Préparation au Bac Européen</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences Biologie Chimie Franco-Allemande</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences Mathématiques Physiques Franco-Allemande</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Scientifique</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Série Générale</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Diplôme étranger équivalent au bac en préparation</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un diplôme étranger équivalent au bac en préparation, en voie générale</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Baccalauréat International</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Economique et social</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Générale</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Littéraire</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Scientifique</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Diplôme étranger équivalent au bac obtenu</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un diplôme étranger équivalent au bac obtenu, en voie générale</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Baccalauréat International</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Economique et social</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Générale</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Littéraire</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Scientifique</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></section>
+<section class="fr-accordion" id="btn-2"><h5 class="fr-accordion__title"><button aria-controls="accordion-btn-2" aria-expanded="false" class="fr-accordion__btn" type="button">Voie technologique</button></h5> <div class="fr-collapse" id="accordion-btn-2">
+<h6 class="fr-mb-1w">Baccalauréat en préparation</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un baccalauréat en préparation, en voie technologique</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Science et Techniques de l'Hôtellerie et de la Restauration</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences Technologiques du Design et des Arts Appliquées</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Techniques du Théâtre de la Musique et de la Danse</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Technologies de l'Industrie et du Développement Durable</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Technologies de l'agronomie et du vivant</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Technologies du Management et de la Gestion</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et technologie de laboratoire</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et technologies de la santé et du social</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Baccalauréat obtenu</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un baccalauréat obtenu, en voie technologique</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Biologie option biologie</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F1-construction mecanique</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F10-microtechnique(avant 1984)          </span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F10a-microtechnique option appareillage </span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F10b-microtechnique option optique      </span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F12-arts appliques                      </span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F2-electronique</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F3-electrotechnique</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F4-genie civil</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F5-physique                             </span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F6-chimie                               </span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F7-biologie option biochimie</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F8-sciences medico-sociales</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">F9-equipement technique-batiment</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">G1-techniques admnistratives</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">G2-techniques quantitatives de gestion</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">G3-techniques commerciales</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Hôtellerie</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Science et Techniques de l'Hôtellerie et de la Restauration</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences Technologiques du Design et des Arts Appliquées</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Techniques du Théâtre de la Musique et de la Danse</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Technologies Tertiaire</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Technologies de l'Industrie et du Développement Durable</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Technologies de l'agronomie et du vivant</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et Technologies du Management et de la Gestion</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et technologie de laboratoire</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et technologie industrielles</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et technologies de l'agronomie et de l'environnement</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et technologies de la gestion</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et technologies de la santé et du social</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences et technologies du produit agroalimentaire</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Sciences médico-sociales</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Techniques de la Musique et de la Danse</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Diplôme étranger équivalent au bac en préparation</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un diplôme étranger équivalent au bac en préparation, en voie technologique</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Technologique</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Diplôme étranger équivalent au bac obtenu</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un diplôme étranger équivalent au bac obtenu, en voie technologique</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Technologique</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></section>
+<section class="fr-accordion" id="btn-3"><h5 class="fr-accordion__title"><button aria-controls="accordion-btn-3" aria-expanded="false" class="fr-accordion__btn" type="button">Voie professionnelle</button></h5> <div class="fr-collapse" id="accordion-btn-3">
+<h6 class="fr-mb-1w">Baccalauréat en préparation</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un baccalauréat en préparation, en voie professionnelle</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Professionnelle</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Professionnelle Agricole</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Baccalauréat obtenu</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un baccalauréat obtenu, en voie professionnelle</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Professionnelle</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Professionnelle Agricole</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Diplôme étranger équivalent au bac en préparation</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un diplôme étranger équivalent au bac en préparation, en voie professionnelle</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Professionnelle</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Diplôme étranger équivalent au bac obtenu</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un diplôme étranger équivalent au bac obtenu, en voie professionnelle</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Professionnelle</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></section>
+<section class="fr-accordion" id="btn-6"><h5 class="fr-accordion__title"><button aria-controls="accordion-btn-6" aria-expanded="false" class="fr-accordion__btn" type="button">Autre filière</button></h5> <div class="fr-collapse" id="accordion-btn-6">
+<h6 class="fr-mb-1w">Baccalauréat en préparation</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un baccalauréat en préparation, en autre filière</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Autre diplôme de niveau IV</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet Professionnel de la Jeunesse, de l'Éducation Populaire et du Sport</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet Technique des Métiers</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet de Technicien</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet des Métiers d'Arts</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet professionnel</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet professionnel Agricole</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Technicien des métiers du spectacle</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Technicien en contrôle non destructif</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">Baccalauréat obtenu</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un baccalauréat obtenu, en autre filière</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Autre diplôme de niveau IV</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet Professionnel de la Jeunesse, de l'Éducation Populaire et du Sport</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet Technique des Métiers</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet de Technicien</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet de Technicien Agricole</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet des Métiers d'Arts</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet professionnel</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Brevet professionnel Agricole</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Technicien des métiers du spectacle</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">Technicien en contrôle non destructif</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">DAEU en préparation</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un daeu en préparation, en autre filière</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Capacité en Droit</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">DAEU</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h6 class="fr-mb-1w">DAEU obtenu</h6>
+<div class="fr-table fr-table--sm fr-table--no-scroll">
+<div class="fr-table__wrapper">
+<div class="fr-table__container">
+<div class="fr-table__content">
+<table>
+<caption class="fr-sr-only">Conditions pour candidater avec un daeu obtenu, en autre filière</caption>
+<thead>
+<tr>
+<th scope="col">Série</th>
+<th scope="col">Spécialités autorisées</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="word-break-keep-all">Capacité en Droit</span></td>
+<td>Toutes</td>
+</tr>
+<tr>
+<td><span class="word-break-keep-all">DAEU</span></td>
+<td>Toutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></section>
+</div>
+<!-- FRAIS CANDIDATURE -->
+<div class="fr-col-12 fr-col-sm-6">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-left-line fr-btn--icon-left btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-2-panel" id="btn-onglet-precedent-3" title="Onglet précédent : Comprendre les critères d'analyse des candidatures" type="button">Comprendre les critères d'analyse des candidatures</button>
+</div>
+<div class="fr-col-12 fr-col-sm-6 text-right text-sm-center">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-right-line fr-btn--icon-right btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-5-panel" id="btn-onglet-suivant-3" title="Onglet suivant : Poursuivre ses études et connaitre les débouchés" type="button">Poursuivre ses études et connaitre les débouchés</button>
+</div>
+</div>
+</div>
+<div aria-labelledby="tabpanel-5" class="fr-tabs__panel" id="tabpanel-5-panel" role="tabpanel" tabindex="0">
+<h3 class="fr-sr-only">Poursuivre ses études et connaitre les débouchés</h3>
+<div class="fr-grid-row fr-grid-row-sm--gutters">
+<div class="fr-col-12">
+<div class="fr-grid-row fr-grid-row--gutters">
+<div class="fr-col-sm-12 fr-col-lg-6">
+<div class="border-grise fr-p-3w">
+<h4>Poursuite d'études</h4>
+<p>Poursuite d'études en BAC+5 dans différents domaines :  </p><ul><li>Marketing et Communication </li><li>Management et Stratégie d'Entreprise</li><li>Développement Commercial</li><li>Chef de Projet en Intelligence Artificielle </li><li>Ressources Humaines </li><li>Manager Achats Approvisionnement </li></ul>
+</div>
+</div>
+<div class="fr-col-sm-12 fr-col-lg-6">
+<div class="border-grise fr-p-3w">
+<h4>Débouchés professionnels</h4>
+<div class="word-break-break-word"><ul><li><strong>Chargé de marketing</strong></li><li><strong>Chargé de communication</strong></li><li><strong>Chef de produit</strong></li><li><strong>Chargé d’études</strong></li><li><strong>Ms marketing, Ms communication, Ms marketing international (poursuite d'études)</strong></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fr-col-12 fr-col-sm-6">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-left-line fr-btn--icon-left btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-3-panel" id="btn-onglet-precedent-5" title="Onglet précédent : Consulter les modalités de candidature" type="button">Consulter les modalités de candidature</button>
+</div>
+<div class="fr-col-12 fr-col-sm-6 text-right text-sm-center">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-right-line fr-btn--icon-right btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-6-panel" id="btn-onglet-suivant-5" title="Onglet suivant : Contacter et échanger avec l'établissement" type="button">Contacter et échanger avec l'établissement</button>
+</div>
+</div>
+</div>
+<div aria-labelledby="tabpanel-6" class="fr-tabs__panel" id="tabpanel-6-panel" role="tabpanel" tabindex="0">
+<h3 class="fr-sr-only">Contacter et échanger avec l'établissement</h3>
+<div class="fr-grid-row fr-grid-row-sm--gutters">
+<div class="fr-col-sm-12 fr-col-lg-6 fr-pt-3w">
+<h4>Établissement</h4>
+<p>
+<b>
+				Ascencia Business School - Paris-la-Défense
 				
-
-
-L’examen des candidatures par les formations
-
-Qui analyse les candidatures ? 
-Ce sont les enseignants de la formation qui analysent votre candidature dans le cadre d’une commission d'examen des vœux (ou jury) constituée principalement de professeurs. Cette commission définit les modalités et les critères d'analyse des candidatures renseignés sur cette fiche. Parcoursup n’analyse aucune candidature.
-
-Comment se déroule l’analyse des candidatures ? 
-Les formations analysent les candidatures en avril-mai 2025 à partir des critères qu’elles ont définis et de leur niveau d’importance. Une fois l’analyse des candidatures terminée, chaque formation transmet son classement à Parcoursup afin que les candidats puissent consulter les réponses des formations à tous leurs vœux à compter du 2 juin 2025.
-
-
-Conseils aux candidats
-Les candidats doivent porter une attention particulière aux pré-requis linguistiques et particulièrement en matière de niveaux de langues. Le niveau B1-B2 en Anglais et en Espagnol est une condition sine qua none pour réussir. Cette formation repose également sur des matières scientifiques et techniques.Les candidats doivent soigner leurs lettres de motivation afin de mieux démontrer leur intérêt à la formation. Le choix de la formation doit être fait sur la base d'un projet professionnel bien réfléchi.La plupart des diplômés deviendront traducteurs ou rédacteurs
-
-
-
-Détails de la grille d’analyse des candidatures par la commission
-
-Vos résultats scolaires ou obtenus dans l'enseignement supérieur comptent pour 50%
-
-
-Critère d'évaluation essentiel : Notes en langues vivantes
-
-
-												Notes en langues vivantes
-											
-
-Éléments évalués :
-												Bulletins de première et terminale
-											
-
-												 Essentiel    
-
-
-
-
-Critère d'évaluation très important : Notes en français
-
-
-												Notes en français
-											
-
-Éléments évalués :
-												Bulletins de première
-											
-
-												 Très important    
-
-
-
-
-Critère d'évaluation important : Notes d'enseignements de spécialité
-
-
-												Notes d'enseignements de spécialité
-											
-
-Éléments évalués :
-												Bulletins de première et terminale
-											
-
-												 Important    
-
-
-
-
-
-
-Vos compétences, méthodes de travail et savoir-faire comptent pour 20%
-
-
-Critère d'évaluation important : Méthode de travail
-
-
-												Méthode de travail
-											
-
-Éléments évalués :
-												Champ "Méthode de travail" de la fiche Avenir
-											
-
-												 Important    
-
-
-
-
-
-
-Votre savoir-être compte pour 15%
-
-
-Critère d'évaluation important : Autonomie dans le travail
-
-
-												Autonomie dans le travail
-											
-
-Éléments évalués :
-												Champ "Autonomie dans le travail" de la fiche Avenir
-											
-
-												 Important    
-
-
-
-
-Critère d'évaluation important : Capacité à s'investir
-
-
-												Capacité à s'investir
-											
-
-Éléments évalués :
-												Champ "Capacité à s'investir" de la fiche Avenir
-											
-
-												 Important    
-
-
-
-
-
-
-Votre motivation et la cohérence de votre projet comptent pour 10%
-
-
-Critère d'évaluation important : Capacité à réussir
-
-
-												Capacité à réussir
-											
-
-Éléments évalués :
-												Avis sur la capacité à réussir saisi par le chef
-d’établissement
-											
-
-												 Important    
-
-
-
-
-Critère d'évaluation important : Intérêts pour les matières scientifiques  et la technologie, motivation
-
-
-												Intérêts pour les matières scientifiques  et la technologie, motivation
-											
-
-Éléments évalués :
-												Lettre de motivation
-											
-
-												 Important    
-
-
-
-
-
-
-Vos engagements, vos activités et centres d’intérêt comptent pour 5%
-
-
-Critère d'évaluation complémentaire : Engagement citoyen
-
-
-												Engagement citoyen
-											
-
-Éléments évalués :
-												Champ "Engagement citoyen" de la fiche Avenir
-											
-
-												 Complémentaire    
-
-
-
-
-
-
-
-
-Les attendus nationaux
+					 (Etablissement privé)
 				
-				
-					Outre la diversité des formations de 1er cycle, et les spécificités qu’y apporte chaque établissement, des éléments de cadrage national ont été définis avec le concours de l’ensemble des acteurs de l’enseignement supérieur pour informer les lycéens et leurs familles. ELEMENTS DE CADRAGE NATIONALDe manière générale, la réussite en première année de licence nécessite la maîtrise de connaissances et compétences acquises au lycée, une bonne connaissance du contenu et des débouchés de chaque filière universitaire ainsi qu’un engagement du futur étudiant dans son projet d’étude choisi. La formation en Langues Etrangères Appliquées repose sur les principes fondamentaux suivants :  - la pluridisciplinarité (étude d’au moins deux langues étrangères à niveau équivalent et de matières d’application : économie, gestion et outils mathématiques, droit, communication…) - l’ouverture au monde de l’entreprise et des organisations : affaires et commerce, traduction spécialisée… - l’ouverture à l’international et à l’interculturalitéLes candidats à l'inscription en licence Mention LANGUES ÉTRANGÈRES APPLIQUÉES (LEA) doivent ainsi répondre aux attendus suivants : * Mobiliser des compétences en matière de compréhension et d’expression écrite et orale afin de pouvoir argumenter et structurer un raisonnement en français et dans au moins deux langues étrangèresCette mention suppose en effet des compétences de compréhension fine de documents de tous types et de solides compétences d’expression, à l’écrit comme à l’oral, afin de pouvoir argumenter, construire un raisonnement, synthétiser, produire et traiter des contenus diversifiés en plusieurs langues. Cette mention nécessite donc de disposer d’un très bon niveau dans au moins deux langues étrangères (niveau B2) et en français. * Avoir un intérêt prononcé pour le monde de l’entreprise et des organisations ainsi que pour l’environnement économique et social dans une perspective internationale. Les relations entre la formation en LEA et le monde socio-économique constituent en effet un aspect important de cette licence. La formation comporte des enseignements relevant des champs disciplinaires économiques et sociaux (économie, droit, gestion, commerce international, marketing, communication…)* Disposer d’une très bonne culture générale et être ouvert au monde ainsi qu’aux questions de société, d’actualité et d’interculturalité. L’intérêt pour les disciplines enseignées est bien évidemment essentiel, mais l’étude des langues étrangères appliquées nécessite également une très bonne culture générale dans des domaines diversifiés. * Pouvoir travailler de façon autonome et organiser son travail, seul ou en équipeCet attendu marque l’importance, pour la formation en LEA, de la capacité du candidat à travailler de façon autonome, seul ou en petit groupe. Comme beaucoup de formations universitaires, la formation en LEA laisse en effet une place substantielle à l’organisation et au travail personnel. Toutes ces connaissances et compétences peuvent être acquises au lycée dans les enseignements du tronc commun et approfondies plus particulièrement dans les enseignements de spécialité et options du domaine des arts, des lettres, des langues et des sciences humaines et sociales.	
-				
+			</b>
+<br/>1 parvis de la Défense
 			
-
-Les attendus complémentaires
-Niveau B2 dans les deux langues étrangères étudiées. Intérêt pour les sciences et la technologie.  
-
-
-Rapport d'analyse des candidatures de la session 2024
-
-
-Découvrir la formation et ses caractéristiques
-
-
-Consulter les modalités de candidature
-
-
-
-
-Consulter les modalités de candidature
-
-
-
-Les conditions pour candidater
-Sont autorisés à s'inscrire :  . Les candidats titulaires ou en préparation d'un baccalauréat français des séries générales, technologiques ou professionnelles.  . Les candidats titulaires ou en préparation d'un DAEU.  . Les candidats titulaires ou en préparation d'un diplôme français de niveau IV hors baccalauréat.  . Les candidats ressortissants de l'U.E, de l'EEE, de la Confédération Suisse, de Monaco ou d'Andorre, titulaires ou en préparation d'un diplôme donnant accès à l'enseignement supérieur européen.  . Les candidats ressortissants de l'U.E, de l'EEE, de la Confédération Suisse, de Monaco ou d'Andorre, titulaires ou en préparation d'un équivalent au baccalauréat français (diplôme obtenu hors U.E).  N.B : Les candidats non ressortissants de l'U.E, de l'EEE, de la Confédération Suisse, de Monaco ou d'Andorre, titulaires ou en préparation d'un diplôme équivalent au baccalauréat français (U.E ou hors UE) ne passent pas par la plateforme Parcoursup, mais par la procédure DAP. . Les candidats titulaires ou en préparation d'un diplôme français de niveau IV (hors baccalauréat, DAEU auxquels s'ajoute la capacité en droit pour les licences de droit) doivent faire l'objet d'une validation de leur diplôme par l'université. 
-
-
-
-
-Comprendre les critères d'analyse des candidatures
-
-
-Visualiser les chiffres d'accès à la formation
-
-
-
-
-Visualiser les chiffres d'accès à la formation
-
-
-
-
-
-				Les données chiffrées présentées dans tous les tableaux et graphiques ici sont calculées pour chaque année à la fin de la phase principale d'admission, mi-juillet.
+			<br/>92800
+			Puteaux
 			
-
-10 places offertes par la formation en 2024
-
-Étape de lecture : 1
-Tous les candidats
-
 			
-				Les chiffres globaux d'accès à cette formation en 2024
-			
-		
-
-			
-				Calculés sur l'ensemble des candidats
-			
-			 en 2024
-		
-
-
-
-
-
-
-
-
-79candidats ont postulé à cette formation
-
-
-
-
-
-
-
-La formation a classé tous les candidats (*)
-
-
-
-
-
-
-
-
-
-
-64candidats ont pu recevoir une proposition d'admission
-
-
-
-
-
-
-
-Les candidats ont refusé ou accepté cette formation
-
-
-
-
-
-
-
-
-
-
-10candidats ont choisi d'intégrer cette formation
-Voir leur profilFermerEn savoir plus sur les candidats qui ont choisi d'intégrer cette formation
-
-Répartition par type de bac des 10 candidats admis de cette formation en 2024
-
-
-
-																	50 %	
-																
-
-																	30 %	
-																
-
-																	20 %	
-																
-
-100%
-
-
-
-
-
-
-
-
-
-
-Bac général
-
-50 %
-
-
-
-
-
-
-Bac technologique
-
-30 %
-
-
-
-
-
-
-Bac professionnel
-
-20 %
-
-
-
-
-
-
-Autres diplômes
-
-0 %
-
-
-
-
-
-
-
-
-
-
-(*) à l'exception de ceux dont le diplôme ne permet pas d'accéder à cette formation.
-
-
-
-					 En savoir plus sur l'accès à la formation selon mon profil
-
-
-Je sélectionne mon type de bac français pour avoir des données correspondant à mon profil
-Les données qui me seront présentées concernent les lycéens de terminale seulement.Elles ne sont pas comparables avec les données du bloc d'étape de lecture 1 qui concernent tous les candidats à cette formation.
-
-Série de baccalauréat *
-
-
-
-
-
-Bac général
-
-
-
-
-
-
-
-
-Bac technologique
-
-
-
-
-
-
-
-
-Bac professionnel
-
-
-
-
-
-
-
-
-
-
-
-
-
-						Action mise en œuvre pour favoriser l’égalité d’accès dans l’enseignement supérieur
-						
-
-FermerEn savoir plus
-La plateforme Parcoursup n’examine pas vos candidatures.
-Sur la base des classements réalisés par les enseignants des formations post-bac, elle assure l’application des actions fixées par la loi en faveur de l’égalité d’accès des étudiants.
-Au bénéfice des lycéens boursiers de l’enseignement secondaire : des taux minimaux de lycéens boursiers sont fixés pour favoriser leur accès dans les formations d’enseignement supérieur, y compris dans les formations les plus sélectives.
-Dans les formations de licences non sélectives, une priorité d’accès est accordée aux candidats ayant leur résidence dans le secteur géographique de référence (sauf exception, l’académie).
-
-
-
-27% de boursiers au minimum  en 2025
-
-
-
-
-50% de candidats non résidants dans l'académie au maximum  en 2025
-
-
-
-FermerEn savoir plus
-Lorsque la formation est très demandée, une priorité au secteur géographique (généralement l’académie) s’applique.Un pourcentage maximum de candidats résidant en dehors du secteur géographique est alors fixé par le recteur.
-												
-
-
-
-
-
-
-
-
-
-Consulter les modalités de candidature
-
-
-Poursuivre ses études et connaitre les débouchés
-
-
-
-
-
-
-Poursuivre ses études et connaitre les débouchés
-
-
-
-
-
-Poursuite d'études
-Master LEA Traductions Scientifiques et Techniques  (UHA) ;Master en traduction ou interprétation dans d'autres établissements.
-
-
-
-
-Débouchés professionnels
-Services de communication des entreprises internationales ;Agences et cabinets de traduction ;Freelance ;Traducteur technique, réviseur, terminologue, terminoticien, rédacteur, gestionnaire documentaire, interprète technique, chef de projet (sociétés de courtage) ;Services linguistiques, responsable commercial tourné vers l'international, tourisme ;Concours administratifs ouverts à bac+3.
-
-
-
-
-La réussite des étudiants
-
-
-
-
-Taux de passage en 2ème année
-Taux : 40.9 tous bacs confondus
-
-
-
-FermerEn savoir plus sur le taux de passage
-
-											Le taux de passage en deuxième année d'une formation est la part des bacheliers de la session 2022 qui s’y sont inscrits en première année à la rentrée 2022 et qui sont passés en deuxième année.
-										
-
-
-
-
-
-
-Taux de réussite en 3 ou 4 ans
-43.1% tous bacs confondus
-
-
-
-FermerEn savoir plus sur le taux de réussite
-
-											Le taux de réussite en 3 ou 4 ans d’une licence est la part des bacheliers de la session 2019 qui se sont inscrits en première année à la rentrée 2019 et qui ont décroché leur licence en 3 ans ou en 4 ans.
-										
-
-
-
-
-Sources des données 
-
-Ministère de l'enseignement supérieur, de la recherche et de l'innovation (MESRI) - Systèmes d'information et d'études statistiques (SIES)
-Ministère de l'Agriculture et de la Souveraineté alimentaire (MAA) /Direction générale de l'enseignement et de la recherche (DGER) - AgroSup Dijon/Eduter pour les données d’insertion professionnelles en BTSA
-MEN-MESRI/DEPP pour les pour les données d’insertion professionnelles en BTS 
-
-Ces statistiques nationales sont actuellement les plus récentes disponibles.
-
-
-
-
-
-
-L'insertion professionnelle des étudiants
-Avenir des élèves en sortie du L1-ALL : Langues étrangères appliquées
-Pour l'établissement Université de Mulhouse
- 12%sont en emploi salarié en FranceTout secteur d’activité confondu en emploi salarié privé et public. 78%poursuivent leur formationEn poursuite d’étude, redoublement, changement de filière. 10%sont dans une autre situationEn recherche d’emploi, en auto-entreprise, à l’étranger, etc …
-
-Ces données sont issues des dispositifs InserJeunes
- et InserSup
-, promotions 2022 et 2023. En savoir plus sur les données
-
-
-
-
-Salaire indicatif un an après la sortie des études
-
-
- Sur toute la France
-
-1580 €
-Salaire médian net /par mois
-
-50% gagnent moins
-50% gagnent plus
-
-
-
-
-
-
-
-									La moitié des salariés gagne entre 1410 € et 1780 € nets par mois
-									
-1410 €
-1780 €
-
-
-
-
-
-Ces données sont issues des dispositifs InserJeunes
- et InserSup
-, promotion 2021. En savoir plus sur les données
-
-
-Note de lecture 
-
-Attention, ces salaires sont indicatifs et observés à l'échelle de la France.Il existe une grande variabilité selon les territoires, les conditions de travail et les entreprises.
-Les données affichées présentent :
-
-Le salaire médian, qui divise les salariés en deux populations égales, avec 50% des salariés gagnant moins et 50% gagnant plus.
-La fourchette de salaire des 50% de salariés les plus proches du salaire médian, c'est-à-dire entre les 25% des salaires les plus bas et les 25% les plus hauts.
-
-Les salaires sont des salaires nets (avant impôt sur le revenu), par mois, en équivalent temps-plein, observés 12 mois après la sortie de formation.
-
-
-
-
-
-
-
-
-Visualiser les chiffres d'accès à la formation
-
-
-Contacter et échanger avec l'établissement
-
-
-
-
-Contacter et échanger avec l'établissement
-
-
-Établissement
-
-
-				Université de Mulhouse
-				
-					 (Établissement public)
-				
-			
-Maison de l'Etudiant - Scolarité
-			1 rue Alfred Werner
-			68200
-			Mulhouse
-			Cedex
-			
-			Téléphone de l'accueil : 03.89.33.64.40
+			<br/>Téléphone de l'accueil : 0155230808
 
 			
 				
-				http://www.uha.fr
-
-Informations supplémentaires
-Située à proximité de l'Allemagne et de la Suisse, l'Université de Haute-Alsace est une université à taille humaine. Découvrez la Vie Universitaire à l'UHA: https://www.uha.fr/fr/vie-universitaire-1.html ainsi que les dispositifs d'accompagnement à la réussite : https://www.uha.fr/fr/formation-1/accompagnement-a-la-reussite-1.htmlDes immersions sont possibles dans la licence de votre choix, n'hésitez pas à vous inscrire : https://immersion.projet-noria.fr Nous traitons vos données à caractère personnel dans le cadre de la gestion de votre candidature. En savoir plus sur notre politique de protection des données au sein de Parcoursup.          
-
-
-Rechercher une personne avec qui échanger
-
-Sur l'accompagnement pour les situations de handicap
-Possibilité d'aménagement de la scolarité pour les personnes en situation de handicap.
-Référent handicap : accueilhandicap@uha.fr 
-
-Sur la formation et son organisation 
- 
-			Contact pour les questions administratives :
-sio@uha.fr
-
-
-			Contact du responsable pédagogique :
-laurent.berec@uha.fr
-
-
-Echanger avec un étudiant ambassadeur de la formation 
-Contact : ambassadeurs-flsh@uha.fr
-Période de disponibilité de l'ambassadeur étudiant : 01 février au 22 mars 2024
-Discuter avec les étudiants est également un excellent moyen de bien s'informer avant de s'inscrire dans une formation.
-
-
-
-
-Poursuivre ses études et connaitre les débouchés
-
-
-Découvrir la formation et ses caractéristiques
-
-
-
-
-
-
-
-
-
-
-
-
-
-RépubliqueFrançaise
-
-
-
-
-
-
-
-info.gouv.fr
-
-
-service-public.fr
-
-
-legifrance.gouv.fr 
-
-
-data.gouv.fr
-
-
-
-
-
-
-
-Données personnelles et cookies
-
-
-Gestion des cookies
-
-
-Mentions légales
-
-
-Plan du site
-
-
-Accessibilité partiellement conforme
-
-
-Contact
-
-
-
-Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0
-
-
-
-
-
-
+				<br/><a class="" href="https://www.ascencia-business-school.com/demande-de-documentation-preinscription/?utm_source=Google%" id="lien-site-internet-etab-2" rel="noopener" target="_blank" title="Site internet de l'établissement : https://www.ascencia-business-school.com/demande-de-documentation-preinscription/?utm_source=Google% - Nouvelle fenêtre">https://www.ascencia-business-school.com/demande-de-documentation-preinscription/?utm_source=Google%</a>
+</p>
+<h5 class="fr-mt-3w">Informations supplémentaires</h5>
+<p></p><p>Idéalement située en plein cœur du premier quartier d’affaires européen, Ascencia Paris la Défense, école de commerce et de management, accueille ses étudiants au sein même de la Grande Arche. Le campus dispose de nombreux aménagements afin de favoriser l’innovation, l’interactivité et la créativité. Un environnement de travail privilégié, proche du monde des entreprises.</p>
+</div>
+<div class="fr-col-sm-12 fr-col-lg-6 fr-pt-3w">
+<h4>Rechercher une personne avec qui échanger</h4>
+<div class="fr-accordions-group">
+<div class="fr-callout fr-callout--blue-cumulus"><h5 class="fr-callout__title">Sur l'accompagnement pour les situations de handicap</h5>
+<p>Possibilité d'aménagement de la scolarité pour les personnes en situation de handicap.</p>
+<p>Référent handicap : <a href="mailto:lbekkouche@ascencia-bs.com" target="_parent">lbekkouche@ascencia-bs.com</a> </p>
+</div>
+<section class="fr-accordion" id="acc-form-org"><h5 class="fr-accordion__title"><button aria-controls="accordion-acc-form-org" aria-expanded="false" class="fr-accordion__btn" type="button">Sur la formation et son organisation</button></h5> <div class="fr-collapse" id="accordion-acc-form-org">
+<p> 
+			Contact pour les questions administratives :<br/>
+<a class="" href="mailto:lbekkouche@ascencia-bs.com" id="lien-mailto" rel="noopener" target="_self">lbekkouche@ascencia-bs.com</a>
+</p>
+<p>
+			Contact du responsable pédagogique :<br/>
+<a href="mailto:lbekkouche@ascencia-bs.com" target="_parent">lbekkouche@ascencia-bs.com</a>
+</p>
+</div></section>
+<section class="fr-accordion" id="acc-etud-amb"><h5 class="fr-accordion__title"><button aria-controls="accordion-acc-etud-amb" aria-expanded="false" class="fr-accordion__btn" type="button">Echanger avec un étudiant ambassadeur de la formation</button></h5> <div class="fr-collapse" id="accordion-acc-etud-amb">
+<p>Contact : Nos ambassadeurs sont disponibles lors des Journées Portes Ouvertes et de nos représentations lors des salons étudiants</p>
+<p>Discuter avec les étudiants est également un excellent moyen de bien s'informer avant de s'inscrire dans une formation.</p>
+</div></section>
+</div>
+</div>
+<div class="fr-col-12 fr-col-sm-6">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-left-line fr-btn--icon-left btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-5-panel" id="btn-onglet-precedent-6" title="Onglet précédent : Poursuivre ses études et connaitre les débouchés" type="button">Poursuivre ses études et connaitre les débouchés</button>
+</div>
+<div class="fr-col-12 fr-col-sm-6 text-right text-sm-center">
+<button class="fr-btn fr-btn--tertiary-no-outline fr-icon fr-icon-arrow-right-line fr-btn--icon-right btn-changement-onglet" data-fr-js-tab-button="true" data-id-onglet-cible="tabpanel-1-panel" id="btn-onglet-suivant-6" title="Onglet suivant : Découvrir la formation et ses caractéristiques" type="button">Découvrir la formation et ses caractéristiques</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- FOOTER -->
+<footer class="fr-footer fr-mt-3w" id="footer" role="contentinfo" tabindex="-1">
+<div class="fr-container">
+<div class="fr-footer__body">
+<div class="fr-footer__brand">
+<p class="fr-logo">République<br/>Française</p>
+<span class="fr-footer__brand-link">
+<img alt="Parcoursup, Entrez dans l'enseignement supérieur" class="fr-footer__logo fr-responsive-img" src="/Candidats/static/framework/img/Parcoursup_signature_RVB.svg"/>
+</span>
+</div>
+<div class="fr-footer__content">
+<ul class="fr-footer__content-list">
+<li class="fr-footer__content-item">
+<a class="fr-footer__content-link" href="https://info.gouv.fr" target="_blank">info.gouv.fr</a>
+</li>
+<li class="fr-footer__content-item">
+<a class="fr-footer__content-link" href="https://service-public.fr" target="_blank">service-public.fr</a>
+</li>
+<li class="fr-footer__content-item">
+<a class="fr-footer__content-link" href="https://legifrance.gouv.fr " target="_blank">legifrance.gouv.fr </a>
+</li>
+<li class="fr-footer__content-item">
+<a class="fr-footer__content-link" href="https://data.gouv.fr" target="_blank">data.gouv.fr</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="fr-footer__bottom">
+<ul class="fr-footer__bottom-list">
+<li class="fr-footer__bottom-item">
+<a class="fr-footer__bottom-link" href="https://www.parcoursup.gouv.fr/donnees-personnelles-et-cookies-1661" target="_blank" title="Lien vers la page données personnelles et cookies (nouvelle fenêtre)">Données personnelles et cookies</a>
+</li>
+<li class="fr-footer__bottom-item">
+<a class="fr-footer__bottom-link" href="https://www.parcoursup.gouv.fr/#tarteaucitron" target="_blank" title="Lien vers la page gestion des cookies (nouvelle fenêtre)">Gestion des cookies</a>
+</li>
+<li class="fr-footer__bottom-item">
+<a class="fr-footer__bottom-link" href="https://www.parcoursup.gouv.fr/mentions-legales-1320" target="_blank" title="Lien vers la page mentions légales (nouvelle fenêtre)">Mentions légales</a>
+</li>
+<li class="fr-footer__bottom-item">
+<a class="fr-footer__bottom-link" href="https://www.parcoursup.gouv.fr/plan-du-site" target="_blank" title="Lien vers la page plan du site (nouvelle fenêtre)">Plan du site</a>
+</li>
+<li class="fr-footer__bottom-item">
+<a class="fr-footer__bottom-link" href="https://dossierappel.parcoursup.fr/Candidat/footer?ACTION=1" target="_self">Accessibilité partiellement conforme</a>
+</li>
+<li class="fr-footer__bottom-item">
+<a class="fr-footer__bottom-link" href="https://www.parcoursup.gouv.fr/contact">Contact</a>
+</li>
+</ul>
+<div class="fr-footer__bottom-copy">
+<p>Sauf mention contraire, tous les contenus de ce site sont sous <a href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank">licence etalab-2.0</a></p>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>
 

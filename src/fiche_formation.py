@@ -41,6 +41,8 @@ def extraction_donnee_fiche(fiche,):
         print(f"fichier {file_path} existe déjà dans bd_html")
         with open(file_path,"r",encoding='utf-8') as f:  # si oui , on lit directement le fichier associé 
             html = f.read()
+            return html
+            
     
     else: #sinon on va le lire avec requests et le stocker dans bd_html , et le marquer dans notre dico ens_fiches
         print(f"fichier {file_path}n'existe pas dans bd_html")
@@ -52,12 +54,13 @@ def extraction_donnee_fiche(fiche,):
 
             with open(file_path,'a',encoding='utf-8') as f:
                 f.write(html.text)
+                return html.text
 
 
-            #print(html.text)
+            
         else:
             print("Erreur dans la lecture de la fiche  : ",fiche)
-            return -1
+            return ""
 
 
     

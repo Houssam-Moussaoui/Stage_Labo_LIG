@@ -1,37 +1,10 @@
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
+from api_parcoursup import main
 
-# Simuler quelques fiches avec texte + métadonnées
-fiches = [
-    {
-        "text": "Le BUT Informatique de l'IUT de Bordeaux forme des développeurs.",
-        "metadata": {
-            "ville": "Bordeaux",
-            "etablissement": "IUT Bordeaux",
-            "diplome": "BUT",
-            "filiere": "Informatique"
-        }
-    },
-    {
-        "text": "Le BTS SIO option SLAM est proposé au lycée Victor Hugo à Marseille.",
-        "metadata": {
-            "ville": "Marseille",
-            "etablissement": "Lycée Victor Hugo",
-            "diplome": "BTS SIO",
-            "filiere": "SLAM"
-        }
-    },
-    {
-        "text": "Une licence de biologie est disponible à l'université de Rennes.",
-        "metadata": {
-            "ville": "Rennes",
-            "etablissement": "Université de Rennes",
-            "diplome": "Licence",
-            "filiere": "Biologie"
-        }
-    }
-]
+fiches = main()
+
 
 # Initialiser le modèle d'embedding
 model = SentenceTransformer("all-MiniLM-L6-v2")

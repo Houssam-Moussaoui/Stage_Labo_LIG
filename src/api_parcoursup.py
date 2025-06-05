@@ -9,14 +9,24 @@ def main():
     print( "len est : >>> ",count_formation)
     N = 10
 
+    entree = [ {"text":"" ,
+                "metadonnee":{ 
+                    "annee": "",
+                    "etab_uai":"",
+                    "etab_nom":"",
+                    "tc":""
+                } 
+                
+                } for _ in range(count_formation)]
+
 
     for i in range(N):
         formation = data[i]
 
-        annee = formation.get('annee')
-        etab_uai = formation.get('etab_uai')
-        etab_nom = formation.get('etab_nom')
-        tc = formation.get('tc')
+        entree[i]["metadonnee"]["annee"] = formation.get('annee')
+        entree[i]["metadonnee"]["etab_uai"] = formation.get('etab_uai')
+        entree[i]["metadonnee"]["etab_nom"] = formation.get('etab_nom')
+        entree[i]["metadonnee"]["tc"] = formation.get('tc')
         tf = formation.get('tf', [None])[0] if formation.get('tf') is not None else None
         nm = formation.get('nm', [None])[0] if formation.get('nm') is not None else None
         fl = formation.get('fl', [None])[0] if formation.get('fl') is not None else None
@@ -29,7 +39,7 @@ def main():
         commune = formation.get('commune')
         fiche = formation.get('fiche')
 
-        extraction_donnee_fiche(fiche)
+        entree[i]["text"] = extraction_donnee_fiche(fiche)
 
 
         dataivz = formation.get('dataviz')  
@@ -48,7 +58,7 @@ def main():
 
 
 
-
+    return entree
 
 
 main()
