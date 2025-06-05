@@ -7,7 +7,7 @@ def main():
     data = requests.get("https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-cartographie_formations_parcoursup/exports/json").json()
     count_formation = len(data)
     print( "len est : >>> ",count_formation)
-    N = 10
+    N = 2
 
     entree = [ {"text":"" ,
                 "metadonnee":{ 
@@ -61,4 +61,3 @@ def main():
     return entree
 
 
-main()

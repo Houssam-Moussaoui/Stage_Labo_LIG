@@ -19,7 +19,7 @@ index = faiss.IndexFlatL2(dimension)
 index.add(embeddings)
 
 # Stocker les métadonnées séparément (liste parallèle)
-metadata_store = [fiche["metadata"] for fiche in fiches]
+metadata_store = [fiche["metadonnee"] for fiche in fiches]
 
 # Requête utilisateur
 query = "Je cherche une formation en informatique à Bordeaux"
