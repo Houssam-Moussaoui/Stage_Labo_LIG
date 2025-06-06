@@ -19,14 +19,27 @@ def main():
                 
                 } for _ in range(count_formation)]
 
-
+    
     for i in range(N):
+        
         formation = data[i]
 
-        entree[i]["metadonnee"]["annee"] = formation.get('annee')
-        entree[i]["metadonnee"]["etab_uai"] = formation.get('etab_uai')
-        entree[i]["metadonnee"]["etab_nom"] = formation.get('etab_nom')
-        entree[i]["metadonnee"]["tc"] = formation.get('tc')
+        elm = {"text":"" ,
+                "metadonnee":{ 
+                    "annee": "",
+                    "etab_uai":"",
+                    "etab_nom":"",
+                    "tc":""
+                }
+            }
+
+        if(formation.get('annee')!="2025" ): # on a des éléments vide à cause de ceci dans le tableau , il faut mettre append alors , À FIXER !!!!!!!! > qui me donne 25886 formations en 2025 , assez bien 
+            continue 
+        
+        elm["metadonnee"]["annee"] = formation.get('annee')
+        elm["metadonnee"]["etab_uai"] = formation.get('etab_uai')
+        elm["metadonnee"]["etab_nom"] = formation.get('etab_nom')
+        elm["metadonnee"]["tc"] = formation.get('tc')
         tf = formation.get('tf', [None])[0] if formation.get('tf') is not None else None
         nm = formation.get('nm', [None])[0] if formation.get('nm') is not None else None
         fl = formation.get('fl', [None])[0] if formation.get('fl') is not None else None
@@ -39,7 +52,7 @@ def main():
         commune = formation.get('commune')
         fiche = formation.get('fiche')
 
-        entree[i]["text"] = extraction_donnee_fiche(fiche)
+        elm["text"] = extraction_donnee_fiche(fiche)
 
 
         dataivz = formation.get('dataviz')  
@@ -54,7 +67,10 @@ def main():
 
         # Exemple d'affichage 
         #print(f" {i+1} | {annee} | {etab_nom} | {nm} | {app} | {commune} ({departement})    |  {fiche }")
-        #print(i)
+        print(i)
+
+        entree.append(elm)
+
 
 
 

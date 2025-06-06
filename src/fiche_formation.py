@@ -11,7 +11,7 @@ SRC_DIR = os.path.dirname(__file__)
 PROJECT_ROOT = os.path.abspath(os.path.join(SRC_DIR, os.pardir))
 
 # Dossier de cache HTML
-CACHE_DIR = os.path.join(PROJECT_ROOT, "bd_html")
+CACHE_DIR = os.path.join((os.path.join(PROJECT_ROOT, "data"))  , "data_html"   )
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 
@@ -37,15 +37,15 @@ def extraction_donnee_fiche(fiche):
 
 
 
-    if(os.path.exists(file_path)): # on vérifie si le fichier existe déjà dans notre base de donnée (bd_html)
-        print(f"fichier {file_path} existe déjà dans bd_html")
+    if(os.path.exists(file_path)): # on vérifie si le fichier existe déjà dans notre base de donnée (data_html)
+        print(f"fichier {file_path} existe déjà dans data_html")
         with open(file_path,"r",encoding='utf-8') as f:  # si oui , on lit directement le fichier associé 
             html = f.read()
             return html
             
     
-    else: #sinon on va le lire avec requests et le stocker dans bd_html 
-        print(f"fichier {file_path}n'existe pas dans bd_html")
+    else: #sinon on va le lire avec requests et le stocker dans data_html 
+        print(f"fichier {file_path}n'existe pas dans data_html")
 
         reponse = requests.get(fiche)
 
@@ -79,7 +79,7 @@ def extraction_donnee_fiche(fiche):
 
 
 
-            with open(file_path,'a',encoding='utf-8') as f:
+            with open(file_path,'w',encoding='utf-8') as f:
                 
                 f.write(res)
                 return res
