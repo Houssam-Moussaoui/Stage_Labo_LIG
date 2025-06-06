@@ -1,8 +1,0 @@
-/*
- JSZipUtils - A collection of cross-browser utilities to go along with JSZip.
-<http://stuk.github.io/jszip-utils>
-(c) 2014 Stuart Knightley, David Duponchel
-Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.*/
-!function(g){"object"==typeof exports?module.exports=g():"function"==typeof define&&define.amd?define(g):"undefined"!=typeof window?window.JSZipUtils=g():"undefined"!=typeof global?global.JSZipUtils=g():"undefined"!=typeof self&&(self.JSZipUtils=g())}(function(){return function h(k,e,f){function l(a,c){if(!e[a]){if(!k[a]){var m="function"==typeof require&&require;if(!c&&m)return m(a,!0);if(b)return b(a,!0);throw Error("Cannot find module '"+a+"'");}c=e[a]={exports:{}};k[a][0].call(c.exports,function(n){var p=
-k[a][1][n];return l(p?p:n)},c,c.exports,h,k,e,f)}return e[a].exports}for(var b="function"==typeof require&&require,d=0;d<f.length;d++)l(f[d]);return l}({1:[function(k,e){function f(){try{return new window.XMLHttpRequest}catch(b){}}var h={_getBinaryFromXHR:function(b){return b.response||b.responseText}},l=window.ActiveXObject?function(){var b;if(!(b=f()))a:{try{b=new window.ActiveXObject("Microsoft.XMLHTTP");break a}catch(d){}b=void 0}return b}:f;h.getBinaryContent=function(b,d){try{var a=l();a.open("GET",
-b,!0);"responseType"in a&&(a.responseType="arraybuffer");a.overrideMimeType&&a.overrideMimeType("text/plain; charset=x-user-defined");a.onreadystatechange=function(){var c;if(4===a.readyState)if(200===a.status||0===a.status){var m=c=null;try{c=h._getBinaryFromXHR(a)}catch(n){m=Error(n)}d(m,c)}else d(Error("Ajax error for "+b+" : "+this.status+" "+this.statusText),null)};a.send()}catch(c){d(Error(c),null)}};e.exports=h},{}]},{},[1])(1)});
