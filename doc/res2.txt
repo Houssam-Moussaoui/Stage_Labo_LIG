@@ -325,6 +325,10 @@
 </div>
 </div>
 </div>
+
+
+
+
 <div class="fr-col-sm-12 fr-col-lg-6 fr-pt-3w">
 <h4>À savoir</h4>
 <div class="fr-callout fr-callout--yellow-moutarde"><h5 class="fr-callout__title">Frais de scolarité</h5>
@@ -386,6 +390,18 @@
 </div></section>
 <section class="fr-accordion" id="acc-dis-reu"><h5 class="fr-accordion__title"><button aria-controls="accordion-acc-dis-reu" aria-expanded="false" class="fr-accordion__btn" type="button">Dispositifs d'aide à la réussite</button></h5> <div class="fr-collapse" id="accordion-acc-dis-reu">
 <div class="word-break-break-word"><p>Le département GEII organise des demi-journées d’immersion à l’IUT de Nice les 4 février, 17 février et 21 février 2025.</p><p>L’inscription se fait via votre référent au sein de votre lycée.</p></div>
+
+
+
+
+
+
+
+
+
+
+
+
 </div></section>
 </div>
 </div>
