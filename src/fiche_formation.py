@@ -26,7 +26,7 @@ def url_to_filename(url: str) -> str:
 
 
 
-def extraction_donnee_fiche(fiche,):
+def extraction_donnee_fiche(fiche):
 
 
     filename = url_to_filename(fiche)
@@ -63,7 +63,7 @@ def extraction_donnee_fiche(fiche,):
             infos = html.find_all("div" ,class_="fr-col-sm-12 fr-col-lg-6 fr-pt-3w") #Présentation de la formation -À savoir -Grille d’analyse des candidatures définie par la commission d'examen des voeux de la formation -L’examen des candidatures par les formations-Établissement - Rechercher une personne avec qui échanger
 
 
-            presentation =    infos[0].find("div" ,class_="word-break-break-word").p.text
+            presentation =    infos[0].find("div" ,class_="word-break-break-word").text
 
             a_savoir = infos[1].text 
 
@@ -72,8 +72,8 @@ def extraction_donnee_fiche(fiche,):
 
 
 
-            res = titre +"\n"+badges_str+"\n"+presentation+"\n"+a_savoir+"\n"+adresse
-
+            #res = titre +"\n"+badges_str+"\n"+presentation+"\n"+a_savoir+"\n"+adresse
+            res = presentation+"\¬"+adresse
 
 
 
