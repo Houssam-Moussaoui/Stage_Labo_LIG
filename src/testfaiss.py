@@ -38,7 +38,7 @@ def get_new_texts():
     
     return new_texts, new_metadata
 
-main()
+#main()
 
 
 # Initialisation du modèle
@@ -95,5 +95,5 @@ query = "Je cherche une formation en informatique à Bordeaux"
 
 query2 = "je cherche une formation public , à Paris ou Lyon ou grenoble , soit en informatique ou histoire ou biologie , langue :anglais"
 
-recherche(query2,model,index,all_texts,all_metadata)
+recherche(query,model,index,all_texts,all_metadata)
 

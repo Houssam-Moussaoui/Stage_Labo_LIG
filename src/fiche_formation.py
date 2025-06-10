@@ -136,6 +136,19 @@ def extraction_donnee_fiche(formation):
                     langues_str += langue            
 
 
+            #adresse
+
+            adresse = ""
+            site_etablissement =""
+            h4_adresse = html.find("h4",string=lambda text: text and "Établissement" in text)
+
+            if(h4_adresse):
+                p_adresse = h4_adresse.find_next_sibling('p')
+                if(p_adresse):
+                    adresse = p_adresse.text
+            
+
+
 
 
             elm["text"] = titre +"\n"+ badges_text_str +"\n"+ presentation +"\n"+ frais_scolarite_normal +"\n"+frais_scolarite_boursier  +"\n"+ cvec_texte +"\n"+cvec_lien +"\n"+langues_str 

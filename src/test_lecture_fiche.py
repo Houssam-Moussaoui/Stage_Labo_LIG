@@ -18,6 +18,7 @@ infos = html.find_all("div" ,class_="fr-col-sm-12 fr-col-lg-6 fr-pt-3w") #Prése
 
 presentation =    infos[0].find("div" ,class_="word-break-break-word").text
 
+
 a_savoir = html.find("h4",string = "À savoir").find_parent("div", class_="fr-col-sm-12 fr-col-lg-6 fr-pt-3w")
 
 
@@ -63,7 +64,26 @@ if langues_section:
     langues =  [' '.join(langue.text.replace('\n', ' ').replace('\t', ' ').split())    for langue in langues_section.ul.find_all("li") ]
 
 
-    
+
+#adresse
+
+adresse = ""
+site_web =""
+h4_adresse = html.find("h4",string=lambda text: text and "Établissement" in text)
+
+if(h4_adresse):
+    p_adresse = h4_adresse.find_next_sibling('p')
+    if(p_adresse):
+        adresse = p_adresse.text.strip()
+
+        # Extraction du site web
+        a_site = p_adresse.find('a', id=lambda x: x and 'lien-site-internet' in x)
+        if a_site:
+            site_web = a_site.get('href', '')
+
+
+print(adresse)
+print(site_web)
 
 
 
