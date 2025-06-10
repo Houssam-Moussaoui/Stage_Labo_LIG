@@ -1,91 +1,86 @@
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
-import pickle # A utilsier pour sauvegarder les data , plutot dns fiche_formation.py
-from api_parcoursup import main
+import pickle
 import os
+from api_parcoursup import main
 
 
-def lecture_pkl():
-    texts = []
-    metadata_store = []
-
-    for file in os.listdir(DATA_ENTREE_DIR):
-        with open(os.path.join( DATA_ENTREE_DIR  ,file),"rb") as f:
-            data = pickle.load(f)
-
-        texts.append(data["text"])
-        metadata_store.append(data["metadonnee"])
-
-    return texts,metadata_store
-
-
-# Chemin absolu vers le dossier 'src'
+# Configuration des chemins
 SRC_DIR = os.path.dirname(__file__)
-# Racine du projet (un niveau au-dessus de 'src')
 PROJECT_ROOT = os.path.abspath(os.path.join(SRC_DIR, os.pardir))
-
-# Dossier de faiss
-FAISS_DIR = os.path.join((os.path.join(PROJECT_ROOT, "data"))  , "data_faiss"   )
+FAISS_DIR = os.path.join(PROJECT_ROOT, "data", "data_faiss")
+DATA_ENTREE_DIR = os.path.join(PROJECT_ROOT, "data", "data_entree")
 os.makedirs(FAISS_DIR, exist_ok=True)
 
-DATA_ENTREE_DIR = os.path.join((os.path.join(PROJECT_ROOT, "data"))  , "data_entree"   )
+# Fichiers persistants
+file_index_faiss = os.path.join(FAISS_DIR, "index.faiss")
+file_text_store = os.path.join(FAISS_DIR, "all_texts.pkl")
+file_metadata_store = os.path.join(FAISS_DIR, "all_metadata.pkl")
 
-
-file_index_faiss =os.path.join(FAISS_DIR,"index.faiss")
-
+def get_new_texts():
+    """Récupère uniquement les nouveaux textes non encore indexés"""
+    new_texts = []
+    new_metadata = []
+    
+    for file in os.listdir(DATA_ENTREE_DIR):
+        file_path = os.path.join(DATA_ENTREE_DIR, file)
+        with open(file_path, "rb") as f:
+            data = pickle.load(f)
+        
+        if data.get("in", 0) == 0:  # Si pas encore indexé
+            data["in"] = 1  # Marquer comme indexé
+            with open(file_path, "wb") as f:
+                pickle.dump(data, f)  # Sauvegarder le changement
+            
+            new_texts.append(data["text"])
+            new_metadata.append(data["metadonnee"])
+    
+    return new_texts, new_metadata
 
 main()
 
 
+# Initialisation du modèle
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
-
-if( os.path.exists(file_index_faiss)):
+# Charger ou créer l'index
+if os.path.exists(file_index_faiss):
     index = faiss.read_index(file_index_faiss)
-
-    
-
-    
+    with open(file_text_store, "rb") as f:
+        all_texts = pickle.load(f)
+    with open(file_metadata_store, "rb") as f:
+        all_metadata = pickle.load(f)
 else:
-
-
-    # Initialiser le modèle d'embedding
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-
-    # Créer les embeddings pour chaque texte
-    texts = []
-    metadata_store = []
-    texts , metadata_store = lecture_pkl()
-    embeddings = model.encode(texts).astype("float32")
-
-    # Créer l’index FAISS (distance L2)
-    dimension = embeddings.shape[1]
+    dimension = 384  # Dimension pour all-MiniLM-L6-v2
     index = faiss.IndexFlatL2(dimension)
-    index.add(embeddings)
+    all_texts = []
+    all_metadata = []
 
+# Ajouter seulement les nouveaux textes
+new_texts, new_metadata = get_new_texts()
+if new_texts:
+    new_embeddings = model.encode(new_texts).astype("float32")
+    index.add(new_embeddings)
+    faiss.write_index(index, file_index_faiss)
     
+    # Mettre à jour les listes complètes
+    all_texts.extend(new_texts)
+    all_metadata.extend(new_metadata)
+    
+    # Sauvegarder les nouvelles listes
+    with open(file_text_store, "wb") as f:
+        pickle.dump(all_texts, f)
+    with open(file_metadata_store, "wb") as f:
+        pickle.dump(all_metadata, f)
 
-
-    #sauvegarde !!!!!!!!!!!!!!
-    faiss.write_index(index,file_index_faiss)
-
-
-
-
-
-# Requête utilisateur
+# Exemple de recherche
 query = "Je cherche une formation en informatique à Bordeaux"
 query_embedding = model.encode([query]).astype("float32")
-
-# Recherche dans FAISS
-k = 5
+k = 3
 distances, indices = index.search(query_embedding, k)
 
-# Affichage des résultats avec métadonnées
 print("Résultats similaires :")
 for i, idx in enumerate(indices[0]):
-    print(f"{i+1}. {texts[idx]} (distance: {distances[0][i]:.2f})")
-    print("   Métadonnées :", metadata_store[idx])
-
-
-
+    print(f"{i+1}. {all_texts[idx]} (distance: {distances[0][i]:.2f})")
+    print("   Métadonnées :", all_metadata[idx])

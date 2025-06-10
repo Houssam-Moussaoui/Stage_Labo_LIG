@@ -13,7 +13,7 @@ def main():
     data = requests.get("https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-cartographie_formations_parcoursup/exports/json").json()
     count_formation = len(data)
     print( "len est : >>> ",count_formation)
-    N = 10
+    N = 300
     
     for i in range(N):
         
@@ -28,4 +28,26 @@ def main():
         
 
 
+
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+def main2():
+    data = requests.get(
+        "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-cartographie_formations_parcoursup/exports/json"
+    ).json()
+
+    print("len est : >>> ", len(data))
+    N = 50  # Nombre de formations à traiter
+
+    formations_2025 = [f for f in data[:N] if f.get("annee") == "2025"]
+
+    # Parallélisation
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        futures = [executor.submit(extraction_donnee_fiche, formation) for formation in formations_2025]
+
+        for future in as_completed(futures):
+            try:
+                future.result()  # On force l'exécution et on capte les erreurs
+            except Exception as e:
+                print("Erreur lors du traitement :", e)
 

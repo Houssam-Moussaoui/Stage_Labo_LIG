@@ -55,7 +55,8 @@ def extraction_donnee_fiche(formation):
                     "etab_uai":"",
                     "etab_nom":"",
                     "tc":""
-                }
+                },
+                "in":0
             }
 
         
@@ -71,30 +72,73 @@ def extraction_donnee_fiche(formation):
         if(reponse.status_code==200):
             html = BeautifulSoup(reponse.text,"lxml")
 
-            titre = html.find("h2",class_="fr-h3 fr-my-1w").text
+            titre = html.find("h2",class_="fr-h3 fr-my-1w").text.strip() 
 
-            badges = html.find_all("span",class_="fr-badge pca-badge-custom") #Établissement - FORMATION
-            badges_str = ""
+            badges =   html.find_all("span",class_="fr-badge pca-badge-custom") #Établissement - FORMATION
+            badges_text = [  badge.text  for badge in badges]
+            badges_text_str = ""
+            for badge in badges_text:
+                badges_text_str += badge
 
-            for badge in badges:
-                badges_str+=badge.text
 
             infos = html.find_all("div" ,class_="fr-col-sm-12 fr-col-lg-6 fr-pt-3w") #Présentation de la formation -À savoir -Grille d’analyse des candidatures définie par la commission d'examen des voeux de la formation -L’examen des candidatures par les formations-Établissement - Rechercher une personne avec qui échanger
 
 
             presentation =    infos[0].find("div" ,class_="word-break-break-word").text
 
-            a_savoir = infos[1].text 
-
-
-            adresse = infos[4].text
+            a_savoir = html.find("h4",string = "À savoir").find_parent("div", class_="fr-col-sm-12 fr-col-lg-6 fr-pt-3w")
 
 
 
-            #res = titre +"\n"+badges_str+"\n"+presentation+"\n"+a_savoir+"\n"+adresse
-            elm["text"] = presentation+"\n"+adresse
+            frais_scolarite_normal = ""
+            h6_normal = html.find('h6', string=lambda text: text and "Par année" in text)
+
+            if h6_normal:
+                p_normal = h6_normal.find_next_sibling('p')
+                if p_normal:
+                    frais_scolarite_normal = (p_normal.text.strip())  
 
 
+
+            frais_scolarite_boursier = ""
+            h6_boursier = html.find('h6', string=lambda text: text and "Par année pour les étudiants boursiers" in text)
+
+            if h6_boursier:
+                p_boursier = h6_boursier.find_next_sibling('p')
+                if p_boursier:
+                    frais_scolarite_boursier = (p_boursier.text.strip())  
+
+                        
+
+            # CVEC
+            cvec_texte = ""
+            cvec_lien = ""
+            h6_cvec = html.find('h6', string=lambda text: text and "Contribution Vie Etudiante et de Campus" in text)
+
+            if h6_cvec:
+                p_cvec = h6_cvec.find_next_sibling('p')
+                if p_cvec:
+                    cvec_texte = p_cvec.text.strip()
+                    CVEC_LIEN =  "https://cvec.etudiant.gouv.fr/"  # fixe 
+
+
+            #langues 
+
+            langues = None
+            langues_str = ""
+            langues_section = html.find("section",id="acc-lang-opt")
+
+            if langues_section:
+                langues =  [' '.join(langue.text.replace('\n', ' ').replace('\t', ' ').split())    for langue in langues_section.ul.find_all("li") ]
+                for langue in langues:
+                    langues_str += langue            
+
+
+
+
+            elm["text"] = titre +"\n"+ badges_text_str +"\n"+ presentation +"\n"+ frais_scolarite_normal +"\n"+frais_scolarite_boursier  +"\n"+ cvec_texte +"\n"+cvec_lien +"\n"+langues_str 
+
+            elm["in"] = 0
 
             with open(file_path,'wb',) as f:
                 pickle.dump(elm,f)
