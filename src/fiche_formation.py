@@ -72,7 +72,9 @@ def extraction_donnee_fiche(formation):
         if(reponse.status_code==200):
             html = BeautifulSoup(reponse.text,"lxml")
 
-            titre = html.find("h2",class_="fr-h3 fr-my-1w").text.strip() 
+            titre_html = html.find("h2",class_="fr-h3 fr-my-1w")
+            if(titre_html):
+                titre = titre_html.text.strip() 
 
             badges =   html.find_all("span",class_="fr-badge pca-badge-custom") #Établissement - FORMATION
             badges_text = [  badge.text  for badge in badges]

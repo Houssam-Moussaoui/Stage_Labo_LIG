@@ -74,13 +74,26 @@ if new_texts:
     with open(file_metadata_store, "wb") as f:
         pickle.dump(all_metadata, f)
 
-# Exemple de recherche
-query = "Je cherche une formation en informatique à Bordeaux"
-query_embedding = model.encode([query]).astype("float32")
-k = 3
-distances, indices = index.search(query_embedding, k)
 
-print("Résultats similaires :")
-for i, idx in enumerate(indices[0]):
-    print(f"{i+1}. {all_texts[idx]} (distance: {distances[0][i]:.2f})")
-    print("   Métadonnées :", all_metadata[idx])
+
+
+def recherche(query,model,index,all_texts,all_metadata):
+    # Exemple de recherche
+    
+    query_embedding = model.encode([query]).astype("float32")
+    k = 3
+    distances, indices = index.search(query_embedding, k)
+
+    print("Résultats similaires :")
+    for i, idx in enumerate(indices[0]):
+        print(f"{i+1}. {all_texts[idx]} (distance: {distances[0][i]:.2f})")
+        print("   Métadonnées :", all_metadata[idx])
+
+
+
+query = "Je cherche une formation en informatique à Bordeaux"
+
+query2 = "je cherche une formation public , à Paris ou Lyon ou grenoble , soit en informatique ou histoire ou biologie , langue :anglais"
+
+recherche(query2,model,index,all_texts,all_metadata)
+

@@ -13,15 +13,17 @@ def main():
     data = requests.get("https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-cartographie_formations_parcoursup/exports/json").json()
     count_formation = len(data)
     print( "len est : >>> ",count_formation)
-    N = 300
+    N = 2000
+    DEPART = 1500 # on est arrivé jusqu"à 1499 -> next time on commence depuis 1500
     
-    for i in range(N):
+    for i in range(DEPART,N):
         
         formation = data[i]
 
         if(formation.get('annee')!="2025" ): # on a des éléments vide à cause de ceci dans le tableau , il faut mettre append alors , À FIXER !!!!!!!! > qui me donne 25886 formations en 2025 , assez bien 
             continue 
 
+        print(i)
 
         extraction_donnee_fiche(formation)
 
