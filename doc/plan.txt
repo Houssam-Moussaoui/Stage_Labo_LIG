@@ -13,6 +13,12 @@ E4 :
 
 à faire : 
 
--- faire des comparaisons entre diffrenrs sites et voit comment le code HTML est fait pour pouvoir faire après du scrabing // sinon retrouver API de tous ces donnnées 
+-- continuer extraction des blocs importants 
+-- chanegr de modèle (mais pas pour le moment)
+-- 
 
--- avec le bloc que j'ai déjà : le diviser à des chunks , coder en vecteur , et mettre dans base FAISS (jjuste un test pour voir comment ça marche )
+
+
+lien :
+
+-- https://community.deeplearning.ai/t/storing-embeddings/533194/4
