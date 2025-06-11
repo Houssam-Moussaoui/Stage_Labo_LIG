@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+from utils import nettoyer
 
 reponse = requests.get("https://dossierappel.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=39395&typeBac=0&originePc=0")
 
@@ -74,20 +75,18 @@ h4_adresse = html.find("h4",string=lambda text: text and "Établissement" in tex
 if(h4_adresse):
     p_adresse = h4_adresse.find_next_sibling('p')
     if(p_adresse):
-        adresse = p_adresse.text.strip()
-
+        adresse =  nettoyer(p_adresse.text.strip())
+        
         # Extraction du site web
         a_site = p_adresse.find('a', id=lambda x: x and 'lien-site-internet' in x)
         if a_site:
             site_web = a_site.get('href', '')
 
 
+
+
+
 print(adresse)
 print(site_web)
-
-
-
-
-    
 
 

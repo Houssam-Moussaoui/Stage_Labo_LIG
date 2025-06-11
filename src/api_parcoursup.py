@@ -27,6 +27,8 @@ def main():
 
         extraction_donnee_fiche(formation)
 
+        break
+
         
 
 
@@ -53,3 +55,5 @@ def main2():
             except Exception as e:
                 print("Erreur lors du traitement :", e)
 
+
+main()

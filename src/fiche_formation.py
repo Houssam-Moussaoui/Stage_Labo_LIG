@@ -49,15 +49,34 @@ def extraction_donnee_fiche(formation):
 
         # les metadonnées - facile
 
-        elm = {"text":"" ,
-                "metadonnee":{ 
-                    "annee": "",
-                    "etab_uai":"",
-                    "etab_nom":"",
-                    "tc":""
-                },
-                "in":0
-            }
+        elm = {
+            "text": "",
+            "metadonnee": {
+                "annee": "",
+                "etab_uai": "",
+                "etab_nom": "",
+                "tc": "",
+                "tf": "",
+                "nm": "",
+                "fl": "",
+                "app": "",
+                "int": "",
+                "amg": "",
+                "aut": "",
+                "region": "",
+                "departement": "",
+                "commune": "",
+                "adresse_complete": "",
+                "gps_lon": "",
+                "gps_lat": "",
+                "nmc": "",
+                "gta": "",
+                "dataviz": "",
+                "etab_url": ""
+            },
+            "in": 0
+        }
+
 
         
         
@@ -171,7 +190,7 @@ def extraction_donnee_fiche(formation):
     
 
     
-def extraction_metadonnee(elm,formation):
+def extraction_metadonnee2(elm,formation):
 
     elm["metadonnee"]["annee"] = formation.get('annee')
     elm["metadonnee"]["etab_uai"] = formation.get('etab_uai')
@@ -200,3 +219,53 @@ def extraction_metadonnee(elm,formation):
     gta = formation.get('gta')
 
     return elm
+
+
+def extraction_metadonnee(elm, formation):
+    elm["metadonnee"]["annee"] = formation.get("annee")
+    elm["metadonnee"]["etab_uai"] = formation.get("etab_uai")
+    elm["metadonnee"]["etab_nom"] = formation.get("etab_nom")
+    elm["metadonnee"]["tc"] = formation.get("tc")
+
+    elm["metadonnee"]["tf"] = formation.get("tf", [None])[0] if formation.get("tf") else None
+    elm["metadonnee"]["nm"] = formation.get("nm", [None])[0] if formation.get("nm") else None
+    elm["metadonnee"]["fl"] = formation.get("fl", [None])[0] if formation.get("fl") else None
+    elm["metadonnee"]["app"] = formation.get("app", [None])[0] if formation.get("app") else None
+    elm["metadonnee"]["int"] = formation.get("int")
+    elm["metadonnee"]["amg"] = formation.get("amg", [None])[0] if formation.get("amg") else None
+    elm["metadonnee"]["aut"] = formation.get("aut", [None])[0] if formation.get("aut") else None
+
+    elm["metadonnee"]["region"] = formation.get("region")
+    elm["metadonnee"]["departement"] = formation.get("departement")
+    elm["metadonnee"]["commune"] = formation.get("commune")
+    
+    # Adresse postale complète si disponible
+    code_postal = formation.get("code_postal")
+    ville = formation.get("commune")
+    if code_postal and ville:
+        elm["metadonnee"]["adresse_complete"] = f"{code_postal} {ville}"
+    
+    # Données GPS
+    gps = formation.get("etab_gps", {})
+    elm["metadonnee"]["gps_lon"] = gps.get("lon")
+    elm["metadonnee"]["gps_lat"] = gps.get("lat")
+    
+    # Divers
+    elm["metadonnee"]["nmc"] = formation.get("nmc")
+    elm["metadonnee"]["gta"] = formation.get("gta")
+    elm["metadonnee"]["dataviz"] = formation.get("dataviz")
+    elm["metadonnee"]["etab_url"] = formation.get("etab_url")
+
+    # TODO (si souhaité) :
+    # - Nettoyer les chaînes comme nom d’établissement ou URL avec regex
+    # - Extraire les infos à partir de champs texte brut si nécessaires
+
+
+    print(elm)
+
+    return elm
+
+
+
+
+
