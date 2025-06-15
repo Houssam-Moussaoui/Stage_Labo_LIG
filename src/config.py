@@ -38,4 +38,4 @@ MAPPING = {
 
 
 #lien de fiche vide
-LIEN_VIDE = {668,1096,1149,1265}
+lien_vide = set()

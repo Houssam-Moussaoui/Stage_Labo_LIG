@@ -3,13 +3,13 @@ import os
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# === Paramètres ===
+
 SRC_DIR = os.path.dirname(__file__)
 PROJECT_ROOT = os.path.abspath(os.path.join(SRC_DIR, os.pardir))
 HTML_DIR = os.path.join(PROJECT_ROOT, "data", "data_html")
 os.makedirs(HTML_DIR, exist_ok=True)
 
-# === Fonction de téléchargement ===
+
 def download_html(fiche_url, index):
     try:
         response = requests.get(fiche_url, timeout=10)
@@ -23,13 +23,13 @@ def download_html(fiche_url, index):
     except Exception as e:
         print(f"[EXCEPTION] {index}: {e}")
 
-# === Fonction principale ===
+
 def main():
     chemin_json = os.path.join(PROJECT_ROOT,"data","fr-esr-cartographie_formations_parcoursup.json")
     df = pd.read_json(chemin_json)
 
-    # Garde les lignes 500 à 999 (index 500 à 999)
-    formations = [(idx, row) for idx, row in df.iterrows() if  16000< idx <= 17000 and isinstance(row.get("fiche"), str)]
+
+    formations = [(idx, row) for idx, row in df.iterrows() if  20000< idx <= 21000 and isinstance(row.get("fiche"), str)]
 
     print(f"{len(formations)} fiches à traiter")
 
@@ -42,6 +42,8 @@ def main():
             except Exception as e:
                 print("[ERREUR THREAD] :", e)
 
-# === Lancement ===
+
+
+
 if __name__ == "__main__":
     main()

@@ -27,30 +27,51 @@ def init_model_and_index():
 
 
 
-def data_to_vector(data: Data ,model : SentenceTransformer ): 
+# def data_to_vector(data: Data ,model : SentenceTransformer ): 
 
-    #passer de data à vector
-    chaine_à_coder = data.getdataÀcoder()
-    embedding = model.encode(chaine_à_coder).astype("float32")
+#     #passer de data à vector
+#     chaine_à_coder = data.getdataÀcoder()
+#     embedding = model.encode(chaine_à_coder).astype("float32")
 
-    #sauvegarde de data à coder dans fichier .pkl 
+#     #sauvegarde de data à coder dans fichier .pkl 
 
-    #fichier_pickle = os.path.join(DATA_DIR,f"{data.getIdx()}.pkl")
+#     #fichier_pickle = os.path.join(DATA_DIR,f"{data.getIdx()}.pkl")
 
-    #with open(fichier_pickle,"w") as f:
-    #    f.write(chaine_à_coder)
+#     #with open(fichier_pickle,"w") as f:
+#     #    f.write(chaine_à_coder)
 
-    return embedding
-
-
+#     return embedding
 
 
-def addVector(vector,index:faiss.IndexFlatL2  ):
+
+
+# def addVector(vector,index:faiss.IndexFlatL2  ):
+
+#     index.add(np.array([vector]).astype("float32")  )
+#     faiss.write_index(index, file_index_faiss)
+
+
+
+
+def encode_and_add_to_index(liste_data : list[Data],model:SentenceTransformer ,index : faiss.IndexFlatL2 ):
+
+
+
+    liste_chaine_à_coder = []
+    for data in liste_data:
+        if isinstance(data, Data) and data is not None:
+            liste_chaine_à_coder.append(data.getdataÀcoder())
+        else:
+            liste_chaine_à_coder.append('')
+
+
+    embeddings = model.encode(liste_chaine_à_coder).astype("float32")  
+
+    index.add(embeddings)
+    faiss.write_index(index, file_index_faiss)
+
 
     
-
-    index.add(np.array([vector]).astype("float32")  )
-    faiss.write_index(index, file_index_faiss)
 
 
     

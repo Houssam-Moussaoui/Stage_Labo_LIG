@@ -18,9 +18,13 @@ def extraction_data(formation,idx):
 
     url_fiche = os.path.join(HTML_DIR,f'{idx}.html')
 
-    extraction_data_text_from_url(url_fiche,data) #lire le fichier idx.html qui correspond à la fiche de parcoursup et extraire du text 
-    
-
+    if( not os.path.exists(url_fiche)):
+        print(f"la page {url_fiche} n'existe pas")
+        lien_vide.add(idx)
+        
+    else:
+        extraction_data_text_from_url(url_fiche,data,idx) #lire le fichier idx.html qui correspond à la fiche de parcoursup et extraire du text 
+        
     return data
 
 
@@ -66,12 +70,19 @@ def extraction_metadonnee(formation,data):
 
 
 
-def extraction_data_text_from_url(url_fiche,data):
+def extraction_data_text_from_url(url_fiche,data,idx):
 
     with open(f"{url_fiche}","r") as f:
         html = f.read()
 
-    
+    if(est_page_erreur(html)):
+        print(f"la page {url_fiche} a un problem 404")
+        lien_vide.add(idx)
+        data.setText("")
+
+
+
+
     soup = BeautifulSoup(html,"lxml")
 
     
@@ -87,10 +98,18 @@ def extraction_data_text_from_url(url_fiche,data):
         badges_text_str += badge
 
 
-    infos = soup.find_all("div" ,class_="fr-col-sm-12 fr-col-lg-6 fr-pt-3w") #Présentation de la formation -À savoir -Grille d’analyse des candidatures définie par la commission d'examen des voeux de la formation -L’examen des candidatures par les formations-Établissement - Rechercher une personne avec qui échanger
+    infos = soup.find_all("div", class_="fr-col-sm-12 fr-col-lg-6 fr-pt-3w")
 
+    presentation = ""
+    if infos:
+        bloc_presentation = infos[0].find("div", class_="word-break-break-word")
+        if bloc_presentation:
+            presentation = bloc_presentation.text.strip()
+        else:
+            print(f" Aucun texte de présentation trouvé pour {idx}")
+    else:
+        print(f" Aucun bloc d'information trouvé pour {idx}")
 
-    presentation =    infos[0].find("div" ,class_="word-break-break-word").text
 
     a_savoir = soup.find("h4",string = "À savoir").find_parent("div", class_="fr-col-sm-12 fr-col-lg-6 fr-pt-3w")
 

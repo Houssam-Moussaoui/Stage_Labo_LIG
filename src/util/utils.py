@@ -64,15 +64,14 @@ def jsonTostring(elm):
         
         
 def est_page_erreur(html: str) -> bool:
-    """Renvoie True si la page est une 404 ou une page d'erreur Parcoursup"""
     soup = BeautifulSoup(html, "lxml")
 
-    # 1. Cherche un titre "Erreur 404"
+    #  Cherche un titre "Erreur 404"
     h1 = soup.find("h1")
     if h1 and "oups" in h1.text.lower():
         return True
 
-    # 2. Cherche le message connu
+    #  Cherche le message connu
     if "Erreur 404" in html or "la page que vous demandez n'existe pas" in html:
         return True
         
