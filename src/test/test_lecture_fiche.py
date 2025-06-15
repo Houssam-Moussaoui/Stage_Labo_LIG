@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from utils import nettoyer
+from util.nettoyage import nettoyer
 
 reponse = requests.get("https://dossierappel.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=39395&typeBac=0&originePc=0")
 
